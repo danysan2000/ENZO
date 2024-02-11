@@ -1,0 +1,1322 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABSTAND_X	history/Xgraf/graf.c	35;"	d	file:
+ABSTAND_Y	history/Xgraf/graf.c	36;"	d	file:
+ADAPPRUNE_DELTA	opt/adapPrune.c	58;"	d	file:
+ADAPPRUNE_KEY	opt/adapPrune.c	56;"	d	file:
+ADAPPRUNE_THRESH	opt/adapPrune.c	57;"	d	file:
+ALPHA	selection/preferSel.c	57;"	d	file:
+ANCESTRY_KEY	history/ancestry.c	56;"	d	file:
+AR	crossover/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	eval/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	examples/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	history/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	mutation/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	nepomuk/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	opt/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	post/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	pre/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	selection/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	stop/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+AR	survival/makefile	/^AR              = ar    # make sure this is gnu-ar (\/tools\/bin\/ar)$/;"	m
+ARFLAGS	crossover/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	eval/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	examples/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	history/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	mutation/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	nepomuk/makefile	/^ARFLAGS 	= src $/;"	m
+ARFLAGS	opt/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	post/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	pre/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	selection/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	stop/makefile	/^ARFLAGS         = rc $/;"	m
+ARFLAGS	survival/makefile	/^ARFLAGS         = rc $/;"	m
+BEST_GUESS_KEY	eval/bestGuessHigh.c	57;"	d	file:
+BEST_GUESS_KEY	eval/bestGuessLow.c	58;"	d	file:
+BYPASS	mutation/mutUnits.c	64;"	d	file:
+CC	crossover/makefile	/^CC      = gcc$/;"	m
+CC	eval/makefile	/^CC      = gcc$/;"	m
+CC	examples/makefile	/^CC     = gcc$/;"	m
+CC	history/Xgraf/makefile	/^CC = gcc$/;"	m
+CC	history/makefile	/^CC      = gcc$/;"	m
+CC	makefile	/^CC      = gcc$/;"	m
+CC	mutation/makefile	/^CC      = gcc$/;"	m
+CC	nepomuk/makefile	/^CC     = gcc$/;"	m
+CC	opt/makefile	/^CC      = gcc$/;"	m
+CC	post/makefile	/^CC      = gcc$/;"	m
+CC	pre/makefile	/^CC      = gcc$/;"	m
+CC	selection/makefile	/^CC      = gcc$/;"	m
+CC	stop/makefile	/^CC      = gcc$/;"	m
+CC	survival/makefile	/^CC      = gcc$/;"	m
+CFLAGS	crossover/makefile	/^CFLAGS  =   -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	eval/makefile	/^CFLAGS  =   -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX	$/;"	m
+CFLAGS	examples/makefile	/^CFLAGS =  -I$(SNNSINC) -I$(NEPOMUKDIR) -I$(ENZO_DIR)  -D LINUX$/;"	m
+CFLAGS	history/Xgraf/makefile	/^CFLAGS = -I\/tools\/openwin\/share\/include -ggdb$/;"	m
+CFLAGS	history/makefile	/^CFLAGS  =  -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	makefile	/^CFLAGS  = $(HEADER_DIR) -I$(SNNSINC) -D LINUX$/;"	m
+CFLAGS	mutation/makefile	/^CFLAGS  =  -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	nepomuk/makefile	/^CFLAGS = -D__ENZO__ -I..\/$(ORGSOURCE)  -D LINUX$/;"	m
+CFLAGS	opt/makefile	/^CFLAGS  = -I$(ENZO_DIR)  -I$(NEPOMUKDIR) -I$(SNNSINC)  -D LINUX$/;"	m
+CFLAGS	post/makefile	/^CFLAGS  = -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	pre/makefile	/^CFLAGS  =  -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	selection/makefile	/^CFLAGS  = -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	stop/makefile	/^CFLAGS  =  -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CFLAGS	survival/makefile	/^CFLAGS  =  -I$(ENZO_DIR) -I$(SNNSINC) -I$(NEPOMUKDIR) -D LINUX$/;"	m
+CHECK_NET	nepomuk/nepomuk.c	75;"	d	file:
+CHECK_PAT	nepomuk/nepomuk.c	84;"	d	file:
+CHECK_POP	nepomuk/nepomuk.c	92;"	d	file:
+CLASSES_KEY	eval/classes.c	56;"	d	file:
+CLEANUP_KEY	opt/cleanup.c	56;"	d	file:
+COORD	history/Xhist.c	62;"	d	file:
+CROSS_PATTERN	pre/loadSNNSPat.c	61;"	d	file:
+CV_EPOCHS	opt/learnCV.c	63;"	d	file:
+CmpFct	nepomuk/nepomuk.h	/^typedef int (*CmpFct)( NetID id_1, NetID id_2 );   \/* cf. strcmp() *\/$/;"	t
+DEAD_STRING	history/saveThem.c	66;"	d	file:
+DEAD_STRING	post/saveAll.c	66;"	d	file:
+DEFAULT_ACT_FUNC	subUtils.h	69;"	d
+DEFAULT_INIT_FUNC	subUtils.h	73;"	d
+DEFAULT_LEARN_FUNC	subUtils.h	71;"	d
+DEFAULT_OUT_FUNC	subUtils.h	70;"	d
+DEFAULT_UPDATE_FUNC	subUtils.h	72;"	d
+DELIMITERS	enzo.c	64;"	d	file:
+DELTA	eval/distClass.c	75;"	d	file:
+DIFF_DESC	eval/bestGuessHigh.c	61;"	d	file:
+DIFF_DESC	eval/bestGuessLow.c	62;"	d	file:
+DIFF_DIST	eval/bestGuessHigh.c	62;"	d	file:
+DIFF_DIST	eval/bestGuessLow.c	63;"	d	file:
+DISTANCE	eval/classes.c	62;"	d	file:
+DISTANCE	eval/distClass.c	66;"	d	file:
+DISTCLASS_KEY	eval/distClass.c	64;"	d	file:
+DO_EVOLUTION	enzo.h	106;"	d
+EMPTY_INIT_FUNC	subUtils.h	74;"	d
+END_MSG	subUtils.h	137;"	d
+ENZO_DIR	crossover/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	eval/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	examples/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	history/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	mutation/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	opt/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	post/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	pre/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	selection/makefile	/^ENZO_DIR  = ..$/;"	m
+ENZO_DIR	stop/makefile	/^ENZO_DIR    = ..$/;"	m
+ENZO_DIR	survival/makefile	/^ENZO_DIR  = ..$/;"	m
+EPOCH_RATING	eval/learnRating.c	58;"	d	file:
+ERRCHK	subUtils.c	60;"	d	file:
+ERROR	opt/jogWeights.c	59;"	d	file:
+ERROR	opt/relearn.c	62;"	d	file:
+ERROR_ACTIVATE	crossover/linCross.c	62;"	d	file:
+ERROR_ACTIVATE	mutation/mutLinks.c	67;"	d	file:
+ERROR_ACTIVATE	mutation/simpleMut.c	65;"	d	file:
+ERROR_ACTIVATE	opt/jogWeights.c	60;"	d	file:
+ERROR_ACTIVATE	opt/learnCV.c	68;"	d	file:
+ERROR_ACTIVATE	opt/learnINIT.c	68;"	d	file:
+ERROR_ACTIVATE	opt/learnSNNS.c	73;"	d	file:
+ERROR_ACTIVATE	opt/relearn.c	63;"	d	file:
+ERROR_ACTIVATE	pre/initTrain.c	68;"	d	file:
+ERROR_ACTIVATE_NET	eval/bestGuessHigh.c	66;"	d	file:
+ERROR_ACTIVATE_NET	eval/bestGuessLow.c	67;"	d	file:
+ERROR_ACTIVATE_NET	eval/classes.c	65;"	d	file:
+ERROR_ACTIVATE_PAT	eval/bestGuessHigh.c	65;"	d	file:
+ERROR_ACTIVATE_PAT	eval/bestGuessLow.c	66;"	d	file:
+ERROR_ACTIVATE_PAT	eval/classes.c	64;"	d	file:
+ERROR_CANT_INIT_NET	pre/initPop.c	67;"	d	file:
+ERROR_CANT_INIT_NET	pre/startPop.c	66;"	d	file:
+ERROR_CROSSPAT	opt/learnCV.c	70;"	d	file:
+ERROR_DESCR	eval/topoRating.c	64;"	d	file:
+ERROR_FILEOPEN	history/histCross.c	64;"	d	file:
+ERROR_FILEOPEN	history/histDetails.c	66;"	d	file:
+ERROR_FILEOPEN	history/histFitness.c	65;"	d	file:
+ERROR_FILEOPEN	history/histInputs.c	62;"	d	file:
+ERROR_FILEOPEN	history/histWeights.c	63;"	d	file:
+ERROR_ILLEGALREF	eval/topoRating.c	66;"	d	file:
+ERROR_INDEX	selection/preferSel.c	60;"	d	file:
+ERROR_INIT_FCT	pre/initPop.c	66;"	d	file:
+ERROR_INIT_FCT	pre/startPop.c	65;"	d	file:
+ERROR_LEARN	opt/learnCV.c	67;"	d	file:
+ERROR_LEARN	opt/learnINIT.c	67;"	d	file:
+ERROR_LEARN	opt/learnSNNS.c	71;"	d	file:
+ERROR_LEARN	pre/initTrain.c	67;"	d	file:
+ERROR_LEARNFUNC	opt/learnSNNS.c	72;"	d	file:
+ERROR_LOAD	pre/loadPop.c	61;"	d	file:
+ERROR_LOAD_CROSS	pre/loadSNNSPat.c	66;"	d	file:
+ERROR_LOAD_LEARN	pre/loadSNNSPat.c	64;"	d	file:
+ERROR_LOAD_TEST	pre/loadSNNSPat.c	65;"	d	file:
+ERROR_MEM	history/histCross.c	63;"	d	file:
+ERROR_MEM	history/histDetails.c	65;"	d	file:
+ERROR_MEM	history/histFitness.c	64;"	d	file:
+ERROR_MODUL	pre/optInitPop.c	61;"	d	file:
+ERROR_NEPOMUK	pre/genpopNepomuk.c	60;"	d	file:
+ERROR_NETDATA	eval/learnRating.c	64;"	d	file:
+ERROR_NETDATA	eval/topoEval.c	63;"	d	file:
+ERROR_NETDATA	eval/topoRating.c	65;"	d	file:
+ERROR_NOT_COPY_NET	pre/initPop.c	65;"	d	file:
+ERROR_NOT_COPY_NET	pre/startPop.c	64;"	d	file:
+ERROR_NOT_LOAD_REF	pre/initPop.c	64;"	d	file:
+ERROR_NOT_LOAD_REF	pre/startPop.c	63;"	d	file:
+ERROR_NOT_NET	pre/initPop.c	68;"	d	file:
+ERROR_NOT_NET	pre/startPop.c	67;"	d	file:
+ERROR_NO_DATA	eval/bestGuessHigh.c	67;"	d	file:
+ERROR_NO_DATA	eval/bestGuessLow.c	68;"	d	file:
+ERROR_NO_DATA	eval/classes.c	66;"	d	file:
+ERROR_NO_PARENTS	selection/preferSel.c	61;"	d	file:
+ERROR_NO_POPULATION	pre/genpopNepomuk.c	59;"	d	file:
+ERROR_NO_REF	crossover/linCross.c	63;"	d	file:
+ERROR_NO_REF	mutation/mutLinks.c	68;"	d	file:
+ERROR_NO_REF	mutation/simpleMut.c	66;"	d	file:
+ERROR_NO_REFDATA	eval/topoRating.c	63;"	d	file:
+ERROR_NO_REFNET	eval/topoRating.c	62;"	d	file:
+ERROR_PAT	opt/learnCV.c	69;"	d	file:
+ERROR_PAT	opt/learnINIT.c	69;"	d	file:
+ERROR_PAT	opt/learnSNNS.c	74;"	d	file:
+ERROR_PAT	pre/initTrain.c	69;"	d	file:
+ERROR_TESTPAT	opt/learnINIT.c	70;"	d	file:
+ERROR_TESTPAT	opt/learnSNNS.c	75;"	d	file:
+ERROR_TESTPAT	pre/initTrain.c	70;"	d	file:
+ERR_EVOLUTION	enzo.h	108;"	d
+ERR_NO_CROSS_PAT	eval/tssEval.c	63;"	d	file:
+ERR_NO_DATA	eval/distClass.c	73;"	d	file:
+ERR_NO_TEST_PATS	eval/distClass.c	72;"	d	file:
+EVOLUTION_INIT	enzo.h	101;"	d
+EXTENSION	history/ancestry.c	67;"	d	file:
+EXTENSION	history/histInputs.c	60;"	d	file:
+EXTENSION	history/histWeights.c	61;"	d	file:
+EXTENSION	opt/learnCV.c	65;"	d	file:
+EXTENSION	opt/learnINIT.c	65;"	d	file:
+EXTENSION	opt/learnSNNS.c	69;"	d	file:
+EXTENSION	pre/initTrain.c	65;"	d	file:
+FILE_EXTENSION	history/histSimple.c	60;"	d	file:
+FITTEST_KEY	survival/fittest.c	58;"	d	file:
+FLAG_VALUE	subUtils.h	147;"	d
+FOR_ALL_OFFSPRINGS	subUtils.h	112;"	d
+FOR_ALL_PARENTS	subUtils.h	108;"	d
+FTypeName	nepomuk/nepomuk.h	/^         *FTypeName;$/;"	m	struct:__anon2
+GENERAL_EXIT	enzo.h	102;"	d
+GENERAL_INIT	enzo.h	100;"	d
+GENPOP_NEPOMUK_KEY	pre/genpopNepomuk.c	57;"	d	file:
+GEOMETRY	history/Xhist.c	61;"	d	file:
+GET_CURRENT_NET	nepomuk/nepomuk.c	78;"	d	file:
+GET_CURRENT_PAT	nepomuk/nepomuk.c	87;"	d	file:
+GET_NET_DATA	subUtils.h	87;"	d
+GET_NO_OF_LINKS	subUtils.h	89;"	d
+HAM_RATE	eval/tssEval.c	58;"	d	file:
+HAM_THRESH	eval/tssEval.c	59;"	d	file:
+HEADER_DIR	makefile	/^HEADER_DIR =  -I$(SNNSDIR) -I$(NEPOMUKDIR)$/;"	m
+HIDDEN_INIT_POP_KEY	pre/hiddenInitPop.c	60;"	d	file:
+HIGH_VALUE	eval/classes.c	57;"	d	file:
+HISTFILE_OPEN_ERR	history/histSimple.c	63;"	d	file:
+HISTFILE_OPEN_ERROR	history/ancestry.c	63;"	d	file:
+HISTORY_FILE	subUtils.h	62;"	d
+HISTORY_FILE_VALUE	subUtils.h	67;"	d
+HIST_CROSS_KEY	history/histCross.c	61;"	d	file:
+HIST_Details_KEY	history/histDetails.c	61;"	d	file:
+HIST_FILE	history/histSimple.c	58;"	d	file:
+HIST_FITNESS_KEY	history/histFitness.c	60;"	d	file:
+HIST_Inputs_KEY	history/histInputs.c	58;"	d	file:
+HIST_MEM_ERR	history/histSimple.c	62;"	d	file:
+HIST_SIMPLE_KEY	history/histSimple.c	57;"	d	file:
+HIST_WEIGHTS_KEY	history/histWeights.c	59;"	d	file:
+HIT	eval/classes.c	69;"	d	file:
+HIT_VALUE	eval/bestGuessHigh.c	58;"	d	file:
+HIT_VALUE	eval/bestGuessLow.c	59;"	d	file:
+HIT_VALUE	eval/classes.c	59;"	d	file:
+HIT_VALUE	eval/distClass.c	67;"	d	file:
+HistID	history/histUtils.h	/^typedef int HistID;$/;"	t
+HistRecord	history/histUtils.h	/^} HistRecord;$/;"	t	typeref:struct:_HistRecord
+IMPLANT_KEY	crossover/implant.c	57;"	d	file:
+IMPLANT_PROB	crossover/implant.c	58;"	d	file:
+INFINITY	subUtils.h	83;"	d
+INIT_FUNCTION	pre/initPop.c	61;"	d	file:
+INIT_FUNCTION	pre/startPop.c	60;"	d	file:
+INIT_NOT_USED	enzo.h	93;"	d
+INIT_PARAMS	pre/initPop.c	62;"	d	file:
+INIT_PARAMS	pre/startPop.c	61;"	d	file:
+INIT_POP_KEY	pre/initPop.c	59;"	d	file:
+INIT_PROB	pre/weightInit.c	57;"	d	file:
+INIT_TRAIN_KEY	pre/initTrain.c	56;"	d	file:
+INIT_USED	enzo.h	94;"	d
+INPUT_RATING	eval/topoRating.c	59;"	d	file:
+JOGWEIGHTS_FACTOR	opt/jogWeights.c	56;"	d	file:
+JOGWEIGHTS_KEY	opt/jogWeights.c	55;"	d	file:
+KPM_INVALID_NETID	nepomuk/nepomuk.h	59;"	d
+KPM_INVALID_PATID	nepomuk/nepomuk.h	63;"	d
+KPM_INVALID_POPID	nepomuk/nepomuk.h	62;"	d
+KPM_INVALID_POP_ID	nepomuk/nepomuk.h	69;"	d
+KPM_MEM_EXCESS	nepomuk/nepomuk.h	60;"	d
+KPM_NETIO	nepomuk/nepomuk.h	61;"	d
+KPM_NO_ERROR	nepomuk/nepomuk.h	58;"	d
+KPM_NO_UNITS	nepomuk/nepomuk.h	64;"	d
+KPM_NO_WEIGHTS	nepomuk/nepomuk.h	65;"	d
+LAST_NET	nepomuk/nepomuk.c	72;"	d	file:
+LAST_PAT	nepomuk/nepomuk.c	82;"	d	file:
+LDFLAGS	makefile	/^LDFLAGS = -lm -lfl$/;"	m
+LEARNRATING_KEY	eval/learnRating.c	56;"	d	file:
+LEARN_FCT	opt/learnCV.c	57;"	d	file:
+LEARN_FCT	opt/learnINIT.c	57;"	d	file:
+LEARN_FCT	opt/learnSNNS.c	61;"	d	file:
+LEARN_FCT	pre/initTrain.c	57;"	d	file:
+LEARN_INIT_KEY	opt/learnINIT.c	56;"	d	file:
+LEARN_MODUL	pre/optInitPop.c	59;"	d	file:
+LEARN_PARAMS	opt/learnCV.c	58;"	d	file:
+LEARN_PARAMS	opt/learnINIT.c	58;"	d	file:
+LEARN_PARAMS	opt/learnSNNS.c	62;"	d	file:
+LEARN_PARAMS	pre/initTrain.c	58;"	d	file:
+LEARN_PATTERN	pre/loadSNNSPat.c	59;"	d	file:
+LEARN_SNNS_KEY	eval/topoRating.c	56;"	d	file:
+LEARN_SNNS_KEY	opt/learnCV.c	56;"	d	file:
+LEARN_SNNS_KEY	opt/learnSNNS.c	60;"	d	file:
+LIB	crossover/makefile	/^LIB     = libcrossover.a$/;"	m
+LIB	eval/makefile	/^LIB     = libeval.a$/;"	m
+LIB	examples/makefile	/^LIB     = libexamples.a$/;"	m
+LIB	history/makefile	/^LIB     = libhistory.a$/;"	m
+LIB	mutation/makefile	/^LIB     = libmutation.a$/;"	m
+LIB	opt/makefile	/^LIB     = libopt.a$/;"	m
+LIB	post/makefile	/^LIB     = libpost.a$/;"	m
+LIB	pre/makefile	/^LIB     = libpre.a$/;"	m
+LIB	selection/makefile	/^LIB     = libselection.a$/;"	m
+LIB	stop/makefile	/^LIB     = libstop.a$/;"	m
+LIB	survival/makefile	/^LIB     = libsurvival.a$/;"	m
+LIBS	history/Xgraf/makefile	/^LIBS   = -L\/usr\/lib -L\/tools\/openwin\/lib -lxview -lolgx -lX11$/;"	m
+LIBS	makefile	/^LIBS    =     pre\/libpre.a   \\$/;"	m
+LIN_CROSS_KEY	crossover/linCross.c	57;"	d	file:
+LOAD_POP_KEY	pre/loadPop.c	58;"	d	file:
+LOAD_SNNS_KEY	pre/loadSNNSPat.c	58;"	d	file:
+LOG_COUNTER	stop/stopIt.c	58;"	d	file:
+LOWER_BOUND	pre/hiddenInitPop.c	61;"	d	file:
+LOWER_BOUND	pre/inputInit.c	78;"	d	file:
+LOW_VALUE	eval/classes.c	58;"	d	file:
+LT_CROSSOVER_EXCESS	enzo.c	233;"	d	file:
+LT_EVAL_EXCESS	enzo.c	236;"	d	file:
+LT_HIST_EXCESS	enzo.c	237;"	d	file:
+LT_MUTATION_EXCESS	enzo.c	234;"	d	file:
+LT_OPT_EXCESS	enzo.c	235;"	d	file:
+LT_POST_EXCESS	enzo.c	239;"	d	file:
+LT_PRE_EXCESS	enzo.c	230;"	d	file:
+LT_SELECTION_EXCESS	enzo.c	232;"	d	file:
+LT_STOP_EXCESS	enzo.c	231;"	d	file:
+LT_SURVIVAL_EXCESS	enzo.c	238;"	d	file:
+LT_UNKNOWN_TYPE	enzo.c	240;"	d	file:
+MARK_DEAD	history/saveThem.c	58;"	d	file:
+MARK_DEAD	post/saveAll.c	58;"	d	file:
+MAXFCT	networkData.h	56;"	d
+MAXPARAMS	nepomuk/kr_shell.c	113;"	d	file:
+MAX_CMD_LINE	enzo.c	62;"	d	file:
+MAX_CNT	stop/stopIt.c	63;"	d	file:
+MAX_DEL_NETS	opt/nullWeg.c	58;"	d	file:
+MAX_DEL_UNITS	opt/cleanup.c	60;"	d	file:
+MAX_DEL_UNITS	pre/hiddenInitPop.c	64;"	d	file:
+MAX_DEL_UNITS	pre/optInitPop.c	63;"	d	file:
+MAX_EPOCHS	opt/learnCV.c	59;"	d	file:
+MAX_EPOCHS	opt/learnINIT.c	59;"	d	file:
+MAX_EPOCHS	opt/learnSNNS.c	63;"	d	file:
+MAX_EPOCHS	pre/initTrain.c	59;"	d	file:
+MAX_ERR_MSG_LEN	subUtils.h	80;"	d
+MAX_FILENAME_LEN	subUtils.h	79;"	d
+MAX_GENERATIONS	subUtils.h	59;"	d
+MAX_GENERATIONS_VALUE	subUtils.h	64;"	d
+MAX_GEN_SIZE	history/ancestry.c	60;"	d	file:
+MAX_INITFCT	opt/learnINIT.c	72;"	d	file:
+MAX_LTABLE_ENTRIES	enzo.c	60;"	d	file:
+MAX_MODUL_NAME	pre/optInitPop.c	64;"	d	file:
+MAX_MSGV	enzo.c	63;"	d	file:
+MAX_SNNSFCT	opt/learnCV.c	72;"	d	file:
+MAX_SNNSFCT	opt/learnSNNS.c	77;"	d	file:
+MAX_SNNSFCT	pre/initTrain.c	72;"	d	file:
+MAX_TSS	eval/learnRating.c	60;"	d	file:
+MAX_TSS	opt/learnINIT.c	60;"	d	file:
+MAX_TSS	opt/learnSNNS.c	64;"	d	file:
+MAX_TSS	pre/initTrain.c	60;"	d	file:
+MAX_TSS	pre/optInitPop.c	58;"	d	file:
+MFLAG_ACTIVE	enzo.h	114;"	d
+MFLAG_NULL	enzo.h	113;"	d
+MISS	eval/classes.c	68;"	d	file:
+MISS_VALUE	eval/bestGuessHigh.c	59;"	d	file:
+MISS_VALUE	eval/bestGuessLow.c	60;"	d	file:
+MISS_VALUE	eval/classes.c	60;"	d	file:
+MISS_VALUE	eval/distClass.c	68;"	d	file:
+MODULE_ACTIVE	enzo.h	116;"	d
+MODULE_KEY	subUtils.h	121;"	d
+MODULE_NO_ERROR	enzo.h	85;"	d
+MODULE_UNKNOWN_ERR	enzo.h	86;"	d
+MSG_CASE	subUtils.h	135;"	d
+MTYPE_CROSSOVER	enzo.h	133;"	d
+MTYPE_EVAL	enzo.h	136;"	d
+MTYPE_HISTORY	enzo.h	137;"	d
+MTYPE_MUTATION	enzo.h	134;"	d
+MTYPE_NONE	enzo.h	129;"	d
+MTYPE_OPT	enzo.h	135;"	d
+MTYPE_POST	enzo.h	139;"	d
+MTYPE_PRE	enzo.h	130;"	d
+MTYPE_SELECTION	enzo.h	132;"	d
+MTYPE_STOP	enzo.h	131;"	d
+MTYPE_SURVIVAL	enzo.h	138;"	d
+MUTSPLIT	mutation/mutInputs.c	65;"	d	file:
+MUTSPLIT	mutation/mutUnits.c	67;"	d	file:
+MUTUNIT_PROB	mutation/mutInputs.c	64;"	d	file:
+MUTUNIT_PROB	mutation/mutUnits.c	66;"	d	file:
+MUT_Inputs_KEY	mutation/mutInputs.c	63;"	d	file:
+MUT_UNITS_KEY	mutation/mutUnits.c	63;"	d	file:
+MY_MODULE_KEY	examples/my_module.c	19;"	d	file:
+MY_PARAM	examples/my_module.c	20;"	d	file:
+ModuleErrFunction	enzo.h	/^typedef char *ModuleErrFunction ( int err_code );$/;"	t
+ModuleInitFunction	enzo.h	/^typedef int ModuleInitFunction( ModuleTableEntry *self,$/;"	t
+ModuleTable	m_table.c	/^ModuleTableEntry ModuleTable[] =$/;"	v
+ModuleTableEntry	enzo.h	/^} ModuleTableEntry;$/;"	t	typeref:struct:_ModuleTableEntry
+ModuleWorkFunction	enzo.h	/^typedef int   ModuleWorkFunction( PopID *parents,$/;"	t
+NEG_CORRECT	eval/classes.c	73;"	d	file:
+NEPOMUK	nepomuk/makefile	/^NEPOMUK         = nepomuk.a$/;"	m
+NEPOMUKDIR	crossover/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	eval/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	examples/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	history/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	makefile	/^NEPOMUKDIR      = nepomuk$/;"	m
+NEPOMUKDIR	mutation/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	opt/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	post/makefile	/^NEPOMUKDIR   = ..\/nepomuk$/;"	m
+NEPOMUKDIR	pre/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	selection/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKDIR	stop/makefile	/^NEPOMUKDIR   = ..\/nepomuk$/;"	m
+NEPOMUKDIR	survival/makefile	/^NEPOMUKDIR      = ..\/nepomuk$/;"	m
+NEPOMUKLIB	makefile	/^NEPOMUKLIB      = ${NEPOMUKDIR}\/nepomuk.a$/;"	m
+NEPOMUK_OBJECTS	nepomuk/makefile	/^NEPOMUK_OBJECTS = nepomuk.o kr_shell.o$/;"	m
+NETWORK	pre/initPop.c	60;"	d	file:
+NETWORK	pre/startPop.c	58;"	d	file:
+NET_DEST_NAME	history/saveThem.c	56;"	d	file:
+NET_DEST_NAME	post/saveAll.c	56;"	d	file:
+NET_NAME	pre/loadPop.c	59;"	d	file:
+NET_SAVE_CNT	history/saveThem.c	57;"	d	file:
+NET_SAVE_CNT	post/saveAll.c	57;"	d	file:
+NEW_NET_HISTID	history/histUtils.h	56;"	d
+NOLEARN_RATING	eval/learnRating.c	57;"	d	file:
+NONE	eval/classes.c	70;"	d	file:
+NONE_VALUE	eval/bestGuessHigh.c	60;"	d	file:
+NONE_VALUE	eval/bestGuessLow.c	61;"	d	file:
+NONE_VALUE	eval/classes.c	61;"	d	file:
+NONE_VALUE	eval/distClass.c	69;"	d	file:
+NO_DECISION	eval/classes.c	74;"	d	file:
+NO_NAME_ERR	history/saveThem.c	63;"	d	file:
+NO_NAME_ERR	post/saveAll.c	63;"	d	file:
+NO_NAME_WARNING	history/saveThem.c	62;"	d	file:
+NO_NAME_WARNING	post/saveAll.c	62;"	d	file:
+NO_OF_OFFS	selection/uniformSel.c	56;"	d	file:
+NULLWEG_KEY	opt/nullWeg.c	55;"	d	file:
+NetDescr	nepomuk/nepomuk.h	/^} NetDescr;$/;"	t	typeref:struct:__anon4
+NetID	nepomuk/nepomuk.h	/^typedef PopNet *NetID;    \/* the user should only care about NetID's ... *\/$/;"	t
+NetworkData	networkData.h	/^} NetworkData;$/;"	t	typeref:struct:__anon1
+OBJECTS	crossover/makefile	/^OBJECTS = implant.o linCross.o$/;"	m
+OBJECTS	eval/makefile	/^OBJECTS = tssEval.o topoRating.o learnRating.o bestGuessHigh.o classes.o \\$/;"	m
+OBJECTS	examples/makefile	/^OBJECTS = my_module.o$/;"	m
+OBJECTS	history/makefile	/^OBJECTS = histUtils.o histSimple.o histWeights.o histFitness.o histCross.o\\$/;"	m
+OBJECTS	makefile	/^OBJECTS   = enzo.o m_table.o  networkData.o subUtils.o $/;"	m
+OBJECTS	mutation/makefile	/^OBJECTS = simpleMut.o mutUnits.o mutInputs.o mutLinks.o $/;"	m
+OBJECTS	opt/makefile	/^OBJECTS = prune.o relearn.o cleanup.o \\$/;"	m
+OBJECTS	post/makefile	/^OBJECTS = saveAll.o$/;"	m
+OBJECTS	pre/makefile	/^OBJECTS = genpopNepomuk.o initPop.o loadPop.o optInitPop.o loadSNNSPat.o\\$/;"	m
+OBJECTS	selection/makefile	/^OBJECTS = uniformSel.o preferSel.o$/;"	m
+OBJECTS	stop/makefile	/^OBJECTS = stopIt.o stopErr.o$/;"	m
+OBJECTS	survival/makefile	/^OBJECTS = fittest.o$/;"	m
+OFFSET	subUtils.c	57;"	d	file:
+OFF_SIZE	subUtils.h	60;"	d
+OFF_SIZE_VALUE	subUtils.h	65;"	d
+OPT_INIT_POP_KEY	pre/optInitPop.c	57;"	d	file:
+ORGSOURCE	nepomuk/makefile	/^ORGSOURCE = $(SNNSDIR)$/;"	m
+OUTELEM_FORMAT	history/histCross.c	69;"	d	file:
+OUTELEM_FORMAT	history/histDetails.c	71;"	d	file:
+OUTELEM_FORMAT	history/histFitness.c	70;"	d	file:
+OUTELEM_FORMAT	history/histInputs.c	67;"	d	file:
+OUTELEM_FORMAT	history/histWeights.c	68;"	d	file:
+OUTELEM_TEXT	history/histCross.c	68;"	d	file:
+OUTELEM_TEXT	history/histDetails.c	70;"	d	file:
+OUTELEM_TEXT	history/histFitness.c	69;"	d	file:
+OUTELEM_TEXT	history/histInputs.c	66;"	d	file:
+OUTELEM_TEXT	history/histWeights.c	67;"	d	file:
+OUTPOP_FORMAT	history/histCross.c	72;"	d	file:
+OUTPOP_FORMAT	history/histDetails.c	75;"	d	file:
+OUTPOP_FORMAT	history/histFitness.c	74;"	d	file:
+OUTPOP_TEXT	history/histCross.c	71;"	d	file:
+OUTPOP_TEXT	history/histDetails.c	73;"	d	file:
+OUTPOP_TEXT	history/histFitness.c	72;"	d	file:
+OUTPUT_OPTION	nepomuk/makefile	/^OUTPUT_OPTION = -o $(@:%.c=%.o)$/;"	m
+OUT_FORMAT	history/histSimple.c	70;"	d	file:
+OUT_TEXT	history/ancestry.c	68;"	d	file:
+OUT_TEXT	history/histSimple.c	67;"	d	file:
+PATTERN_CROSS	enzo.h	122;"	d
+PATTERN_LEARN	enzo.h	120;"	d
+PATTERN_TEST	enzo.h	121;"	d
+PAT_MEM_ERROR	selection/preferSel.c	62;"	d	file:
+POP_SIZE	subUtils.h	61;"	d
+POP_SIZE	survival/fittest.c	59;"	d	file:
+POP_SIZE_VALUE	subUtils.h	66;"	d
+POS_CORRECT	eval/classes.c	72;"	d	file:
+PP_I	eval/topoEval.c	60;"	d	file:
+PP_U	eval/topoEval.c	59;"	d	file:
+PP_W	eval/topoEval.c	58;"	d	file:
+PREFER_SEL_KEY	selection/preferSel.c	56;"	d	file:
+PROBADD	mutation/mutLinks.c	63;"	d	file:
+PROBADD	mutation/simpleMut.c	61;"	d	file:
+PROBCROSS	crossover/linCross.c	58;"	d	file:
+PROBDEL	mutation/mutLinks.c	59;"	d	file:
+PROBDEL	mutation/simpleMut.c	60;"	d	file:
+PROBDEL_ENDGEN	mutation/mutLinks.c	61;"	d	file:
+PROBDEL_START	mutation/mutLinks.c	60;"	d	file:
+PRUNE_END	opt/prune.c	57;"	d	file:
+PRUNE_KEY	opt/prune.c	54;"	d	file:
+PRUNE_START	opt/prune.c	56;"	d	file:
+PRUNE_THRESH	opt/prune.c	55;"	d	file:
+PS	history/ancestry.c	/^static int PS = FALSE;    \/* flag for postscript output *\/$/;"	v	file:
+PSFILE_OPEN_ERROR	history/ancestry.c	64;"	d	file:
+PS_EXTENSION	history/ancestry.c	70;"	d	file:
+PS_HEADER	history/ancestry.c	73;"	d	file:
+PS_OUTPUT	history/ancestry.c	57;"	d	file:
+PUT_CURRENT_NET	nepomuk/nepomuk.c	79;"	d	file:
+PUT_CURRENT_PAT	nepomuk/nepomuk.c	88;"	d	file:
+PWU	mutation/mutUnits.c	65;"	d	file:
+PatID	nepomuk/nepomuk.h	/^typedef PopPat *PatID;    \/* ... and PatID's  *\/$/;"	t
+PopID	nepomuk/nepomuk.h	/^typedef int     PopID;    \/* ... and PopID's  *\/$/;"	t
+PopNet	nepomuk/nepomuk.h	/^} PopNet;$/;"	t	typeref:struct:_PopNet
+PopPat	nepomuk/nepomuk.h	/^} PopPat;$/;"	t	typeref:struct:_PopPat
+Protokoll	history/Xgraf/xgraf.c	/^        } Protokoll;$/;"	t	typeref:struct:protokoll	file:
+RANDOM	subUtils.h	101;"	d
+RAND_01	subUtils.h	100;"	d
+RAND_INIT_POP_KEY	pre/inputInit.c	77;"	d	file:
+RANGE	mutation/mutInputs.c	66;"	d	file:
+RANGE	mutation/mutLinks.c	64;"	d	file:
+RANGE	mutation/mutUnits.c	68;"	d	file:
+RANGE	mutation/simpleMut.c	62;"	d	file:
+REFERENCE	subUtils.h	91;"	d
+RELEARN_FACTOR	opt/relearn.c	59;"	d	file:
+RELEARN_KEY	opt/relearn.c	58;"	d	file:
+RESET_LTABLE	enzo.c	67;"	d	file:
+RND_SUBSET	eval/distClass.c	70;"	d	file:
+RND_SUBSET	eval/tssEval.c	60;"	d	file:
+SAVE_ALL_KEY	post/saveAll.c	55;"	d	file:
+SAVE_EACH_GEN	history/saveThem.c	59;"	d	file:
+SAVE_THEM_KEY	history/saveThem.c	55;"	d	file:
+SEL_ERROR	selection/uniformSel.c	60;"	d	file:
+SEL_MSG	subUtils.h	131;"	d
+SEL_PROB	selection/uniformSel.c	57;"	d	file:
+SHUFFLE	opt/learnCV.c	60;"	d	file:
+SHUFFLE	opt/learnINIT.c	61;"	d	file:
+SHUFFLE	opt/learnSNNS.c	65;"	d	file:
+SHUFFLE	pre/initTrain.c	61;"	d	file:
+SIGMA	mutation/mutLinks.c	62;"	d	file:
+SIMPLE_MUT_KEY	mutation/mutLinks.c	58;"	d	file:
+SIMPLE_MUT_KEY	mutation/simpleMut.c	59;"	d	file:
+SNNSDIR	examples/makefile	/^SNNSDIR = ..\/$(SNNSINC)$/;"	m
+SNNSDIR	makefile	/^SNNSDIR         = ..\/..\/snns-enzo\/kernel\/sources$/;"	m
+SNNSINC	crossover/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	eval/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	history/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	makefile	/^SNNSINC         = $(SNNSDIR)$/;"	m
+SNNSINC	mutation/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	opt/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	post/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	pre/makefile	/^SNNSINC = ..\/$(SNNSDIR) $/;"	m
+SNNSINC	selection/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	stop/makefile	/^SNNSINC = ..\/$(SNNSDIR)$/;"	m
+SNNSINC	survival/makefile	/^SNNSINC = ..\/$(SNNSDIR) $/;"	m
+SNNSLIBS	makefile	/^SNNSLIBS        = $(SNNSDIR)\/libkernel.a $(SNNSDIR)\/libfunc.a$/;"	m
+START_NET	pre/startPop.c	59;"	d	file:
+START_POP_KEY	pre/startPop.c	57;"	d	file:
+STOP_ERR_KEY	stop/stopErr.c	58;"	d	file:
+STOP_EVOLUTION	enzo.h	107;"	d
+STOP_IT_KEY	stop/stopIt.c	57;"	d	file:
+SUBTARGET	makefile	/^SUBTARGET = $/;"	m
+SWAP_NETID	nepomuk/nepomuk.c	94;"	d	file:
+TEST_PATTERN	pre/loadSNNSPat.c	60;"	d	file:
+TMP_FILE	opt/learnCV.c	62;"	d	file:
+TMP_FILE	opt/learnINIT.c	63;"	d	file:
+TMP_FILE	opt/learnSNNS.c	67;"	d	file:
+TMP_FILE	pre/initTrain.c	63;"	d	file:
+TOPO_EVAL_KEY	eval/topoEval.c	57;"	d	file:
+TSS_EVAL_KEY	eval/tssEval.c	56;"	d	file:
+TSS_RATE	eval/tssEval.c	57;"	d	file:
+TSS_RATING	eval/learnRating.c	59;"	d	file:
+TType	nepomuk/nepomuk.h	/^    int TType,$/;"	m	struct:__anon2
+UNIF_SEL_KEY	selection/uniformSel.c	55;"	d	file:
+UNIT_RATING	eval/topoRating.c	58;"	d	file:
+UPPER_BOUND	pre/inputInit.c	79;"	d	file:
+USE_SNNS	nepomuk/kr_shell.h	53;"	d
+UTILS_OBJ	makefile	/^UTILS_OBJ = subUtils.o$/;"	m
+UnitDescr	nepomuk/nepomuk.h	/^} UnitDescr;$/;"	t	typeref:struct:__anon2
+VALID_NET	nepomuk/nepomuk.c	74;"	d	file:
+VALID_PAT	nepomuk/nepomuk.c	83;"	d	file:
+VALID_POP	nepomuk/nepomuk.c	91;"	d	file:
+WARN_EVOLUTION	enzo.h	105;"	d
+WEIGHT_INIT_KEY	pre/weightInit.c	56;"	d	file:
+WEIGHT_RATING	eval/topoRating.c	57;"	d	file:
+WIN_X_LEN	history/Xhist.c	66;"	d	file:
+WIN_X_POS	history/Xhist.c	64;"	d	file:
+WIN_Y_LEN	history/Xhist.c	67;"	d	file:
+WIN_Y_POS	history/Xhist.c	65;"	d	file:
+WRITE	opt/learnCV.c	61;"	d	file:
+WRITE	opt/learnINIT.c	62;"	d	file:
+WRITE	opt/learnSNNS.c	66;"	d	file:
+WRITE	pre/initTrain.c	62;"	d	file:
+WeightDescr	nepomuk/nepomuk.h	/^} WeightDescr;$/;"	t	typeref:struct:__anon3
+X_HIST_KEY	history/Xhist.c	60;"	d	file:
+Xhist_errMsg	history/Xhist.c	/^char *Xhist_errMsg( int err_code )$/;"	f
+Xhist_init	history/Xhist.c	/^int Xhist_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+Xhist_work	history/Xhist.c	/^int Xhist_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+_HIDDENINIT_H	pre/hiddenInitPop.h	52;"	d
+_HISTCROSS_H	history/histCross.h	52;"	d
+_HISTDETAILS_H	history/histDetails.h	53;"	d
+_HISTFITTNESS_H	history/histFitness.h	53;"	d
+_HISTINPUTS_H	history/histInputs.h	53;"	d
+_HISTSIMPLE_H	history/histSimple.h	53;"	d
+_HISTWEIGHTS_H	history/histWeights.h	53;"	d
+_HistRecord	history/histUtils.h	/^typedef struct _HistRecord$/;"	s
+_INPUTINIT_H	pre/inputInit.h	52;"	d
+_KR_SHELL_H	nepomuk/kr_shell.h	51;"	d
+_LEARNCV_H	opt/learnCV.h	53;"	d
+_LINCROSS_H	crossover/linCross.h	52;"	d
+_LOADPOP_H	pre/loadPop.h	52;"	d
+_MUTINPUTS_H	mutation/mutInputs.h	53;"	d
+_MUTLINKS_H	mutation/mutLinks.h	54;"	d
+_MUTUNITS_H	mutation/mutUnits.h	52;"	d
+_ModuleTableEntry	enzo.h	/^typedef struct _ModuleTableEntry$/;"	s
+_NEPOMUK_H	nepomuk/nepomuk.h	52;"	d
+_OPTINITPOP_H	pre/optInitPop.h	52;"	d
+_PROTO_H	proto.h	53;"	d
+_PopNet	nepomuk/nepomuk.h	/^typedef struct _PopNet$/;"	s
+_PopPat	nepomuk/nepomuk.h	/^typedef struct _PopPat$/;"	s
+_SIMPLEMUT_H	mutation/simpleMut.h	53;"	d
+_STARTPOP_H	pre/startPop.h	2;"	d
+_SUBUTILS_H	subUtils.h	53;"	d
+_TOPOEVAL_H	eval/topoEval.h	53;"	d
+_TOPORATING_H	eval/topoRating.h	52;"	d
+_TOPO_RATING_H	eval/topologyRating.h	52;"	d
+_WEIGHTINIT_H	pre/weightInit.h	52;"	d
+_XHIST_H	history/Xhist.h	53;"	d
+__ADAPPRUNE_H__	opt/adapPrune.h	52;"	d
+__ANCESTRY__	history/ancestry.h	53;"	d
+__BEST_GUESS_HIGH__	eval/bestGuessHigh.h	54;"	d
+__BEST_GUESS_LOW__	eval/bestGuessLow.h	53;"	d
+__CLASSES_H__	eval/classes.h	53;"	d
+__CLEANUP__	opt/cleanup.h	54;"	d
+__DISTCLASS__	eval/distClass.h	53;"	d
+__ENZO__	enzo.h	52;"	d
+__FITTEST__	survival/fittest.h	53;"	d
+__HIST_UTILS__	history/histUtils.h	52;"	d
+__IMPLANT__	crossover/implant.h	52;"	d
+__INIT_TRAIN__	pre/initTrain.h	53;"	d
+__JOGWEIGHTS_H__	opt/jogWeights.h	52;"	d
+__LEARN_INIT__	opt/learnINIT.h	52;"	d
+__LEARN_RATING__	eval/learnRating.h	52;"	d
+__LEARN_SNNS__	opt/learnSNNS.h	53;"	d
+__MY_MODULE__	examples/my_module.h	20;"	d
+__NETWORK_DATA__	networkData.h	53;"	d
+__NULLWEG__	opt/nullWeg.h	52;"	d
+__PREFER_SEL__	selection/preferSel.h	53;"	d
+__PRUNE_H__	opt/prune.h	53;"	d
+__RELEARN_H__	opt/relearn.h	53;"	d
+__SAVE_ALL__	post/saveAll.h	54;"	d
+__SAVE_THEM__	history/saveThem.h	53;"	d
+__STOP_ERR__	stop/stopErr.h	52;"	d
+__STOP_IT__	stop/stopIt.h	54;"	d
+__TSS_EVAL__	eval/tssEval.h	52;"	d
+__UNIF_SEL__	selection/uniformSel.h	53;"	d
+achsen_len_x	history/Xgraf/graf.c	/^static int      achsen_len_x; \/* Laenge des x-Bereichs - Rand in Pixeln *\/$/;"	v	file:
+achsen_len_y	history/Xgraf/graf.c	/^static int      achsen_len_y; \/* dto fuer y-Bereich                     *\/$/;"	v	file:
+achsen_ur_x	history/Xgraf/graf.c	/^static int      achsen_ur_x;  \/* x-Koordinatenursprung in Pixeln        *\/$/;"	v	file:
+achsen_ur_y	history/Xgraf/graf.c	/^static int      achsen_ur_y;  \/* y- ...                                 *\/$/;"	v	file:
+act	nepomuk/nepomuk.h	/^    FlintType act, bias;$/;"	m	struct:__anon4
+actFuncName	nepomuk/nepomuk.h	/^         *actFuncName,$/;"	m	struct:__anon2
+act_func	nepomuk/nepomuk.h	/^    char     *act_func,$/;"	m	struct:__anon4
+activation	nepomuk/nepomuk.h	/^    FlintType activation,$/;"	m	struct:__anon2
+activeDesc	mutation/mutInputs.c	/^static NetDescr      activeDesc;$/;"	v	file:
+activeDesc	mutation/mutUnits.c	/^static NetDescr      activeDesc;$/;"	v	file:
+adapPrune_errMsg	opt/adapPrune.c	/^char *adapPrune_errMsg( int err_code )$/;"	f
+adapPrune_init	opt/adapPrune.c	/^int adapPrune_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+adapPrune_work	opt/adapPrune.c	/^int adapPrune_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+added	history/histUtils.h	/^    int added;$/;"	m	struct:_HistRecord
+ancestry_errMsg	history/ancestry.c	/^char *ancestry_errMsg( int err_code )$/;"	f
+ancestry_init	history/ancestry.c	/^int ancestry_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+ancestry_work	history/ancestry.c	/^int ancestry_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+areConnectedInRef	mutation/mutUnits.c	/^int areConnectedInRef ( int unit1, int  unit2)$/;"	f
+axis_graf	history/Xgraf/graf.c	/^void axis_graf(char  *x_text, char  *y_text)  $/;"	f
+bestGuessHigh_errMsg	eval/bestGuessHigh.c	/^char *bestGuessHigh_errMsg( int err_code )$/;"	f
+bestGuessHigh_init	eval/bestGuessHigh.c	/^int bestGuessHigh_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+bestGuessHigh_work	eval/bestGuessHigh.c	/^int bestGuessHigh_work ( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+bestGuessLow_errMsg	eval/bestGuessLow.c	/^char *bestGuessLow_errMsg( int err_code )$/;"	f
+bestGuessLow_init	eval/bestGuessLow.c	/^int bestGuessLow_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+bestGuessLow_work	eval/bestGuessLow.c	/^int bestGuessLow_work ( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+bias	nepomuk/nepomuk.h	/^              bias;$/;"	m	struct:__anon2
+bias	nepomuk/nepomuk.h	/^    FlintType act, bias;$/;"	m	struct:__anon4
+broadcast_message	enzo.c	/^static void broadcast_message( char *msg, int ignore_active, void *data )$/;"	f	file:
+bypass	mutation/mutUnits.c	/^static int           bypass    = TRUE;$/;"	v	file:
+canvas	history/Xgraf/xgraf.c	/^static Canvas canvas;$/;"	v	file:
+canvas_repaint_proc	history/Xgraf/xgraf.c	/^void canvas_repaint_proc(canvas, paint_window, dpy, xwin, xrects)$/;"	f
+catch_signal	enzo.c	/^void catch_signal( void )$/;"	f
+classes_errMsg	eval/classes.c	/^char *classes_errMsg( int err_code )$/;"	f
+classes_init	eval/classes.c	/^int classes_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+classes_work	eval/classes.c	/^int classes_work ( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+cleaned	history/histUtils.h	/^    int cleaned;$/;"	m	struct:_HistRecord
+cleanup_errMsg	opt/cleanup.c	/^char *cleanup_errMsg( int err_code )$/;"	f
+cleanup_init	opt/cleanup.c	/^int cleanup_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+cleanup_work	opt/cleanup.c	/^int cleanup_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+clear_graf	history/Xgraf/graf.c	/^void clear_graf(void)$/;"	f
+copyModuleEntry	enzo.c	/^static int copyModuleEntry( ModuleTableEntry entry, int prio )$/;"	f	file:
+createAllNewLinks	mutation/mutInputs.c	/^static int createAllNewLinks ( int unit_no )$/;"	f	file:
+createAllNewLinks	mutation/mutUnits.c	/^int createAllNewLinks ( int unit_no , int index )$/;"	f
+crossFitness	history/histUtils.h	/^    float crossFitness;$/;"	m	struct:_HistRecord
+crossHam	eval/tssEval.c	/^static float crossHam  = 0.0;$/;"	v	file:
+crossPats	eval/bestGuessHigh.c	/^static PatID crossPats   = NULL;$/;"	v	file:
+crossPats	eval/bestGuessLow.c	/^static PatID crossPats   = NULL;$/;"	v	file:
+crossPats	eval/classes.c	/^static PatID crossPats   = NULL;$/;"	v	file:
+crossPats	eval/tssEval.c	/^static PatID crossPats = NULL;$/;"	v	file:
+crossPattern	opt/learnCV.c	/^static PatID crossPattern                    = NULL; $/;"	v	file:
+crossTSS	eval/tssEval.c	/^static float crossTSS  = 0.0;$/;"	v	file:
+crossover	enzo.c	/^static void crossover( void )$/;"	f	file:
+crossoverTable	enzo.c	/^                        crossoverTable [MAX_LTABLE_ENTRIES],$/;"	v	file:
+currentNet	nepomuk/nepomuk.c	/^static NetID   currentNet = NULL;    \/* just remember the good times          *\/$/;"	v	file:
+currentPat	nepomuk/nepomuk.c	/^static PatID   currentPat = NULL;    \/* and don't forget about old pat!       *\/$/;"	v	file:
+cvEpochs	opt/learnCV.c	/^static int   cvEpochs                       = 2;$/;"	v	file:
+debug	crossover/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	eval/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	examples/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	history/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	makefile	/^debug:= SUBTARGET  += debug$/;"	m
+debug	mutation/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	nepomuk/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	opt/learnSNNS.c	/^static int debug =0;$/;"	v	file:
+debug	opt/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	post/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	pre/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	selection/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	stop/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+debug	survival/makefile	/^debug:= CFLAGS += -ggdb -Wall$/;"	m
+deleteHiddenUnits	pre/hiddenInitPop.c	/^static void deleteHiddenUnits( int cnt )$/;"	f	file:
+deleteHiddenUnits	pre/optInitPop.c	/^static void deleteHiddenUnits( int cnt )$/;"	f	file:
+deleteUnit	mutation/mutUnits.c	/^int deleteUnit (int index)$/;"	f
+deleteUnitWithBypass	mutation/mutUnits.c	/^int deleteUnitWithBypass ( int delUnit )$/;"	f
+deleted	history/histUtils.h	/^    int deleted;$/;"	m	struct:_HistRecord
+deltaThresh	opt/adapPrune.c	/^static float deltaThresh  = 0.2;$/;"	v	file:
+destName	history/saveThem.c	/^static char *destName       = NULL;$/;"	v	file:
+destName	post/saveAll.c	/^static char *destName       = NULL;$/;"	v	file:
+dist	eval/classes.c	/^static float dist   = 0.2;$/;"	v	file:
+distClass_errMsg	eval/distClass.c	/^char *distClass_errMsg( int err_code )$/;"	f
+distClass_init	eval/distClass.c	/^int distClass_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+distClass_work	eval/distClass.c	/^int distClass_work ( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+distance	eval/bestGuessHigh.c	/^static float distance   =  0.2;$/;"	v	file:
+distance	eval/bestGuessLow.c	/^static float distance   =  0.2;$/;"	v	file:
+end_graf	history/Xgraf/graf.c	/^void end_graf(void) $/;"	f
+enzo_actModule	enzo.c	/^void enzo_actModule( ModuleTableEntry *module, int prio )$/;"	f
+enzo_logprint	enzo.c	/^void enzo_logprint( char *fmt, ... )$/;"	f
+epochCnt	opt/prune.c	/^static int   epochCnt      = 0;$/;"	v	file:
+epochRating	eval/learnRating.c	/^static float    epochRating      =   0.0;$/;"	v	file:
+epochs	networkData.h	/^    int epochs;                      \/* Sum of needed epochs to learn         *\/$/;"	m	struct:__anon1
+errFct	enzo.h	/^    ModuleErrFunction  *errFct;$/;"	m	struct:_ModuleTableEntry
+error_bound	nepomuk/kr_shell.c	/^static float error_bound = 0.5;$/;"	v	file:
+evalTable	enzo.c	/^                        evalTable      [MAX_LTABLE_ENTRIES],$/;"	v	file:
+evaluation	enzo.c	/^static void evaluation( void )$/;"	f	file:
+exit_all	enzo.c	/^static void exit_all( void )$/;"	f	file:
+fileName	pre/initPop.c	/^static char fileName[MAX_FILENAME_LEN] = "enzo.net"; $/;"	v	file:
+fileName	pre/loadPop.c	/^static char fileName[MAX_FILENAME_LEN] = "enzo";$/;"	v	file:
+fileName	pre/startPop.c	/^static char fileName[MAX_FILENAME_LEN]  = "enzo.net"; $/;"	v	file:
+filename	pre/loadPop.c	/^static char filename[MAX_FILENAME_LEN] = "";$/;"	v	file:
+firstEpochs	history/histUtils.h	/^    int firstEpochs;  \/* sum of epochs; updated if any pruning takes place *\/$/;"	m	struct:_HistRecord
+firstFreeNet	nepomuk/nepomuk.c	/^static PopNet *firstFreeNet = NULL;  \/* Marks the first free net.             *\/$/;"	v	file:
+firstFreePat	nepomuk/nepomuk.c	/^static PopPat *firstFreePat = NULL;  \/* Marks the first free pat.             *\/$/;"	v	file:
+firstUsedNet	nepomuk/nepomuk.c	/^static PopNet *firstUsedNet = NULL;  \/* Marks the first used net.             *\/$/;"	v	file:
+firstUsedPat	nepomuk/nepomuk.c	/^static PopPat *firstUsedPat = NULL;  \/* Marks the first used pat.             *\/$/;"	v	file:
+fitness	mutation/mutUnits.c	/^  float fitness;$/;"	m	struct:__anon5	file:
+fitness	networkData.h	/^    float fitness;                   $/;"	m	struct:__anon1
+fittest_errMsg	survival/fittest.c	/^char *fittest_errMsg( int err_code )$/;"	f
+fittest_init	survival/fittest.c	/^int fittest_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+fittest_work	survival/fittest.c	/^int fittest_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+flags	enzo.h	/^    int flags;$/;"	m	struct:_ModuleTableEntry
+freeSucc	nepomuk/nepomuk.h	/^    struct _PopNet *freeSucc;$/;"	m	struct:_PopNet	typeref:struct:_PopNet::_PopNet
+freeSucc	nepomuk/nepomuk.h	/^    struct _PopPat *freeSucc;$/;"	m	struct:_PopPat	typeref:struct:_PopPat::_PopPat
+frozen	nepomuk/nepomuk.h	/^        frozen,$/;"	m	struct:__anon2
+genList	history/ancestry.c	/^static HistID *genList;$/;"	v	file:
+genSize	history/ancestry.c	/^static int genSize = POP_SIZE_VALUE;$/;"	v	file:
+generationCnt	stop/stopIt.c	/^static int generationCnt = MAX_GENERATIONS_VALUE;$/;"	v	file:
+generation_size	pre/genpopNepomuk.c	/^static int generation_size = OFF_SIZE_VALUE;$/;"	v	file:
+genpopNepomuk_errMsg	pre/genpopNepomuk.c	/^char *genpopNepomuk_errMsg( int err_code) $/;"	f
+genpopNepomuk_init	pre/genpopNepomuk.c	/^int genpopNepomuk_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+genpopNepomuk_work	pre/genpopNepomuk.c	/^int genpopNepomuk_work( PopID *parents, PopID *offsprings, PopID *reference) $/;"	f
+gensize	selection/preferSel.c	/^static int   gensize        = OFF_SIZE_VALUE;$/;"	v	file:
+getDeletedUnitIndex	mutation/mutInputs.c	/^static int getDeletedUnitIndex ()$/;"	f	file:
+getDeletedUnitIndex	mutation/mutUnits.c	/^int getDeletedUnitIndex (int *index)$/;"	f
+getIndexAlive	mutation/mutInputs.c	/^static int getIndexAlive()$/;"	f	file:
+getIndexAlive	mutation/mutUnits.c	/^int getIndexAlive()$/;"	f
+get_error	eval/tssEval.c	/^static int get_error( float *tss, int *ham, int cnt )$/;"	f	file:
+glob_dpy	history/Xgraf/xgraf.c	/^static Display *glob_dpy;$/;"	v	file:
+glob_gc	history/Xgraf/xgraf.c	/^static GC glob_gc;	$/;"	v	file:
+glob_xwin	history/Xgraf/xgraf.c	/^static Window glob_xwin;$/;"	v	file:
+hamThresh	eval/tssEval.c	/^static float hamThresh = 0.0;$/;"	v	file:
+handleError	enzo.c	/^static int handleError( int err_code, char *err_msg )$/;"	f	file:
+hfp	history/ancestry.c	/^static FILE *hfp;$/;"	v	file:
+hfp	history/histSimple.c	/^static FILE *hfp;$/;"	v	file:
+hfpCross	history/histCross.c	/^static FILE        *hfpCross = NULL, *hfpPopcross = NULL;$/;"	v	file:
+hfpFit	history/histDetails.c	/^static FILE        *hfpFit, *hfpPopfit;$/;"	v	file:
+hfpFit	history/histFitness.c	/^static FILE        *hfpFit, *hfpPopfit;$/;"	v	file:
+hfpPopcross	history/histCross.c	/^static FILE        *hfpCross = NULL, *hfpPopcross = NULL;$/;"	v	file:
+hfpPopfit	history/histDetails.c	/^static FILE        *hfpFit, *hfpPopfit;$/;"	v	file:
+hfpPopfit	history/histFitness.c	/^static FILE        *hfpFit, *hfpPopfit;$/;"	v	file:
+hfpWeight	history/histInputs.c	/^static FILE        *hfpWeight;$/;"	v	file:
+hfpWeight	history/histWeights.c	/^static FILE        *hfpWeight;$/;"	v	file:
+hiddenInitPop_errMsg	pre/hiddenInitPop.c	/^char *hiddenInitPop_errMsg (int err_code)$/;"	f
+hiddenInitPop_init	pre/hiddenInitPop.c	/^int hiddenInitPop_init (ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+hiddenInitPop_work	pre/hiddenInitPop.c	/^int hiddenInitPop_work (PopID *parents, PopID *offsprings, PopID *reference)$/;"	f
+highDec	eval/classes.c	/^static float highDec    = 1.0;$/;"	v	file:
+histCross_errMsg	history/histCross.c	/^char *histCross_errMsg( int err_code )$/;"	f
+histCross_init	history/histCross.c	/^int histCross_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+histCross_work	history/histCross.c	/^int histCross_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+histDetails_errMsg	history/histDetails.c	/^char *histDetails_errMsg( int err_code )$/;"	f
+histDetails_init	history/histDetails.c	/^int histDetails_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+histDetails_work	history/histDetails.c	/^int histDetails_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+histFileName	history/histCross.c	/^static char        histFileName[255] = "enzo_hist";$/;"	v	file:
+histFileName	history/histDetails.c	/^static char        histFileName[MAX_FILENAME_LEN] = HISTORY_FILE_VALUE;$/;"	v	file:
+histFileName	history/histFitness.c	/^static char        histFileName[MAX_FILENAME_LEN] = HISTORY_FILE_VALUE;$/;"	v	file:
+histFileName	history/histInputs.c	/^static char        histFileName[255] = HISTORY_FILE_VALUE;$/;"	v	file:
+histFileName	history/histWeights.c	/^static char        histFileName[255] = HISTORY_FILE_VALUE;$/;"	v	file:
+histFitness_errMsg	history/histFitness.c	/^char *histFitness_errMsg( int err_code )$/;"	f
+histFitness_init	history/histFitness.c	/^int histFitness_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+histFitness_work	history/histFitness.c	/^int histFitness_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+histID	networkData.h	/^    HistID histID;                   \/* unique id for history-recording       *\/$/;"	m	struct:__anon1
+histIDcnt	history/histUtils.c	/^static int histIDcnt = 0;$/;"	v	file:
+histInputs_errMsg	history/histInputs.c	/^char *histInputs_errMsg( int err_code )$/;"	f
+histInputs_init	history/histInputs.c	/^int histInputs_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+histInputs_work	history/histInputs.c	/^int histInputs_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+histRec	networkData.h	/^    HistRecord histRec;              \/* collector for history informations    *\/$/;"	m	struct:__anon1
+histSimple_errMsg	history/histSimple.c	/^char *histSimple_errMsg( int err_code )$/;"	f
+histSimple_init	history/histSimple.c	/^int histSimple_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+histSimple_work	history/histSimple.c	/^int histSimple_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+histWeights_errMsg	history/histWeights.c	/^char *histWeights_errMsg( int err_code )$/;"	f
+histWeights_init	history/histWeights.c	/^int histWeights_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+histWeights_work	history/histWeights.c	/^int histWeights_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+hist_maxHistID	history/histUtils.c	/^HistID hist_maxHistID( void )$/;"	f
+hist_newHistID	history/histUtils.c	/^HistID hist_newHistID( void )$/;"	f
+histfile	history/ancestry.c	/^static char histfile[MAX_FILENAME_LEN] = HISTORY_FILE_VALUE;$/;"	v	file:
+histfile	history/histSimple.c	/^static char *histfile;$/;"	v	file:
+history	enzo.c	/^static void history( void )$/;"	f	file:
+historyTable	enzo.c	/^                        historyTable   [MAX_LTABLE_ENTRIES],$/;"	v	file:
+hitRating	eval/bestGuessHigh.c	/^static float hitRating  =  0.0;$/;"	v	file:
+hitRating	eval/bestGuessLow.c	/^static float hitRating  =  0.0;$/;"	v	file:
+hitRating	eval/classes.c	/^static float hitRating  = 0.0;$/;"	v	file:
+hitRating	eval/distClass.c	/^static float hitRating  = 0.0;$/;"	v	file:
+idCnt	networkData.c	/^static idCnt = 0;$/;"	v	file:
+implant	crossover/implant.c	/^void implant( NetID net, NetID donor, int feature )$/;"	f
+implantProb	crossover/implant.c	/^float implantProb = 0.2;$/;"	v
+implant_errMsg	crossover/implant.c	/^char *implant_errMsg( int err_code )$/;"	f
+implant_init	crossover/implant.c	/^int implant_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+implant_work	crossover/implant.c	/^int implant_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+index	mutation/mutUnits.c	/^  int index;$/;"	m	struct:__anon5	file:
+indexRec	mutation/mutUnits.c	/^static indexRecord   *indexRec = NULL;$/;"	v	file:
+indexRecord	mutation/mutUnits.c	/^} indexRecord;$/;"	t	typeref:struct:__anon5	file:
+initAct	nepomuk/nepomuk.h	/^              initAct,$/;"	m	struct:__anon2
+initFct	enzo.h	/^    int (*initFct)( struct _ModuleTableEntry *self, int msgc, char *msgv[] );$/;"	m	struct:_ModuleTableEntry
+initFct	pre/initPop.c	/^static char  initFct[128]  = DEFAULT_INIT_FUNC; $/;"	v	file:
+initFct	pre/startPop.c	/^static char  initFct[128]  = EMPTY_INIT_FUNC; $/;"	v	file:
+initParams	pre/initPop.c	/^static float initParams[5] = {-1.0, 1.0, 0.0, 0.0, 0.0};$/;"	v	file:
+initParams	pre/startPop.c	/^static float initParams[5] = {-1.0, 1.0, 1.0, 0.0, 0.0};$/;"	v	file:
+initPop_errMsg	pre/initPop.c	/^char *initPop_errMsg (int err_code)$/;"	f
+initPop_init	pre/initPop.c	/^int initPop_init (ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+initPop_work	pre/initPop.c	/^int initPop_work (PopID *parents, PopID *offsprings, PopID *reference)$/;"	f
+initTrain_errMsg	pre/initTrain.c	/^char *initTrain_errMsg(int err_code)$/;"	f
+initTrain_init	pre/initTrain.c	/^int initTrain_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+initTrain_work	pre/initTrain.c	/^int initTrain_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+init_params	nepomuk/kr_shell.c	/^       init_params[5],  \/* Init-Parameter *\/$/;"	v	file:
+initialize_all	enzo.c	/^static void initialize_all( int argc, char *argv[] )$/;"	f	file:
+inputInit_errMsg	pre/inputInit.c	/^char *inputInit_errMsg (int err_code)$/;"	f
+inputInit_init	pre/inputInit.c	/^int inputInit_init (ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+inputInit_work	pre/inputInit.c	/^int inputInit_work (PopID *parents, PopID *offsprings, PopID *reference)$/;"	f
+inputType	nepomuk/nepomuk.h	/^        inputType;$/;"	m	struct:__anon2
+inputrating	eval/topoRating.c	/^static float    inputrating      = 0.0;$/;"	v	file:
+inputs	nepomuk/kr_shell.c	/^static int *inputs = NULL;   \/* Liste der Eingabeunits *\/$/;"	v	file:
+insertTableEntry	enzo.c	/^static void insertTableEntry( ModuleTableEntry t[], int cnt,$/;"	f	file:
+io_type	nepomuk/nepomuk.h	/^    int       io_type,$/;"	m	struct:__anon4
+jogLimit	opt/jogWeights.c	/^static FlintType jogLimit = 0.01;$/;"	v	file:
+jogWeights_errMsg	opt/jogWeights.c	/^char *jogWeights_errMsg(int err_code)$/;"	f
+jogWeights_init	opt/jogWeights.c	/^int jogWeights_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+jogWeights_work	opt/jogWeights.c	/^int jogWeights_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+kpm_copyNet	nepomuk/nepomuk.c	/^NetID kpm_copyNet( NetID id, void *usr_data )  $/;"	f
+kpm_copyNetInfo	nepomuk/nepomuk.c	/^int kpm_copyNetInfo( NetID id)  $/;"	f
+kpm_deleteNet	nepomuk/nepomuk.c	/^kpm_err kpm_deleteNet( NetID id )$/;"	f
+kpm_err	nepomuk/nepomuk.h	/^typedef int     kpm_err;  \/* ... and worry about kpm_errors !    *\/$/;"	t
+kpm_exit	nepomuk/nepomuk.c	/^kpm_err kpm_exit( void )$/;"	f
+kpm_freeNetDescr	nepomuk/nepomuk.c	/^void kpm_freeNetDescr( NetDescr *n )$/;"	f
+kpm_getCurrentNet	nepomuk/nepomuk.c	/^NetID kpm_getCurrentNet( void )  $/;"	f
+kpm_getCurrentPattern	nepomuk/nepomuk.c	/^PatID kpm_getCurrentPattern( void )  $/;"	f
+kpm_getFirstPat	nepomuk/nepomuk.c	/^PatID kpm_getFirstPat( void )$/;"	f
+kpm_getNetData	nepomuk/nepomuk.c	/^void *kpm_getNetData( NetID id )$/;"	f
+kpm_getNetDescr	nepomuk/nepomuk.c	/^kpm_err kpm_getNetDescr( NetID id, NetDescr *n )$/;"	f
+kpm_getNextPat	nepomuk/nepomuk.c	/^PatID kpm_getNextPat( PatID id )$/;"	f
+kpm_getPatData	nepomuk/nepomuk.c	/^void *kpm_getPatData( PatID id )$/;"	f
+kpm_getPatName	nepomuk/nepomuk.c	/^char *kpm_getPatName( PatID id )$/;"	f
+kpm_getPopID	nepomuk/nepomuk.c	/^PopID kpm_getPopID( NetID id )  $/;"	f
+kpm_initialize	nepomuk/nepomuk.c	/^kpm_err kpm_initialize( int max_nets, int max_pats )$/;"	f
+kpm_loadNet	nepomuk/nepomuk.c	/^NetID kpm_loadNet( char *filename, void *usr_data )  $/;"	f
+kpm_loadPat	nepomuk/nepomuk.c	/^PatID kpm_loadPat( char *filename, void *usr_data )  $/;"	f
+kpm_newNet	nepomuk/nepomuk.c	/^NetID kpm_newNet ( void *usr_data )  $/;"	f
+kpm_newPopID	nepomuk/nepomuk.c	/^PopID kpm_newPopID( void )$/;"	f
+kpm_popFirstMember	nepomuk/nepomuk.c	/^NetID kpm_popFirstMember( PopID p_id )  $/;"	f
+kpm_popNextMember	nepomuk/nepomuk.c	/^NetID kpm_popNextMember( PopID p_id, NetID n_id )  $/;"	f
+kpm_putNetDescr	nepomuk/nepomuk.c	/^static NetID kpm_putNetDescr( NetDescr *n )$/;"	f	file:
+kpm_saveNet	nepomuk/nepomuk.c	/^kpm_err kpm_saveNet( NetID id, char *filename, char *netname )$/;"	f
+kpm_setCurrPNet	nepomuk/nepomuk.c	/^kpm_err kpm_setCurrPNet( NetID id )  $/;"	f
+kpm_setCurrentNet	nepomuk/nepomuk.c	/^kpm_err kpm_setCurrentNet( NetID id )  $/;"	f
+kpm_setCurrentPattern	nepomuk/nepomuk.c	/^kpm_err  kpm_setCurrentPattern( PatID id )  $/;"	f
+kpm_setPatName	nepomuk/nepomuk.c	/^kpm_err kpm_setPatName( PatID id, char *name )$/;"	f
+kpm_setPopMember	nepomuk/nepomuk.c	/^kpm_err kpm_setPopMember( NetID n_id, PopID p_id )  $/;"	f
+kpm_sortNets	nepomuk/nepomuk.c	/^void kpm_sortNets( CmpFct netcmp )$/;"	f
+kpm_validPopID	nepomuk/nepomuk.c	/^kpm_err kpm_validPopID( PopID id )$/;"	f
+ksh_allocateUnits	nepomuk/kr_shell.c	/^krui_err  ksh_allocateUnits(int no_of_units)$/;"	f
+ksh_areConnectedWeight	nepomuk/kr_shell.c	/^bool      ksh_areConnectedWeight(int source_unit_no,int target_unit_no, FlintType*weight)$/;"	f
+ksh_createDefaultUnit	nepomuk/kr_shell.c	/^int       ksh_createDefaultUnit(void)$/;"	f
+ksh_createLink	nepomuk/kr_shell.c	/^krui_err  ksh_createLink(int source_unit_no, FlintTypeParam weight)$/;"	f
+ksh_createUnit	nepomuk/kr_shell.c	/^int       ksh_createUnit(char *unit_name, char *out_func_name, $/;"	f
+ksh_deleteAllOutputLinks	nepomuk/kr_shell.c	/^krui_err  ksh_deleteAllOutputLinks(void)$/;"	f
+ksh_deleteAllPatterns	nepomuk/kr_shell.c	/^void      ksh_deleteAllPatterns(void)$/;"	f
+ksh_deleteLink	nepomuk/kr_shell.c	/^krui_err  ksh_deleteLink(void)$/;"	f
+ksh_deleteNet	nepomuk/kr_shell.c	/^void      ksh_deleteNet(void)$/;"	f
+ksh_deleteUnitList	nepomuk/kr_shell.c	/^krui_err  ksh_deleteUnitList(int no_of_units, int unit_list[])$/;"	f
+ksh_error_bound	nepomuk/kr_shell.c	/^float  ksh_error_bound(float eb)$/;"	f
+ksh_freezeUnit	nepomuk/kr_shell.c	/^krui_err  ksh_freezeUnit(int unit_no)$/;"	f
+ksh_getCurrentUnit	nepomuk/kr_shell.c	/^int       ksh_getCurrentUnit(void)$/;"	f
+ksh_getFirstPredUnit	nepomuk/kr_shell.c	/^int       ksh_getFirstPredUnit(FlintType *strength)$/;"	f
+ksh_getFirstSuccUnit	nepomuk/kr_shell.c	/^int       ksh_getFirstSuccUnit(int source_unit_no, FlintType *weight)$/;"	f
+ksh_getFirstUnit	nepomuk/kr_shell.c	/^int       ksh_getFirstUnit(void)$/;"	f
+ksh_getFuncParamInfo	nepomuk/kr_shell.c	/^bool      ksh_getFuncParamInfo(char *func_name, int func_type, $/;"	f
+ksh_getLearnFunc	nepomuk/kr_shell.c	/^char     *ksh_getLearnFunc(void)$/;"	f
+ksh_getLinkWeight	nepomuk/kr_shell.c	/^FlintType ksh_getLinkWeight(void)$/;"	f
+ksh_getNet	nepomuk/kr_shell.c	/^void ksh_getNet( memNet *n )$/;"	f
+ksh_getNetInfo	nepomuk/kr_shell.c	/^void      ksh_getNetInfo(int *no_of_sites, int *no_of_links, $/;"	f
+ksh_getNextPredUnit	nepomuk/kr_shell.c	/^int       ksh_getNextPredUnit(FlintType *strength)$/;"	f
+ksh_getNextSuccUnit	nepomuk/kr_shell.c	/^int       ksh_getNextSuccUnit(FlintType *weight)$/;"	f
+ksh_getNextUnit	nepomuk/kr_shell.c	/^int       ksh_getNextUnit(void)$/;"	f
+ksh_getNoOfPatterns	nepomuk/kr_shell.c	/^int       ksh_getNoOfPatterns(void)$/;"	f
+ksh_getNoOfTTypeUnits	nepomuk/kr_shell.c	/^int       ksh_getNoOfTTypeUnits(int UnitTType)$/;"	f
+ksh_getNoOfUnits	nepomuk/kr_shell.c	/^int       ksh_getNoOfUnits(void)$/;"	f
+ksh_getPattern	nepomuk/kr_shell.c	/^void ksh_getPattern( memPat *p )$/;"	f
+ksh_getUnitActFuncName	nepomuk/kr_shell.c	/^char     *ksh_getUnitActFuncName(int UnitNo)$/;"	f
+ksh_getUnitActivation	nepomuk/kr_shell.c	/^FlintType ksh_getUnitActivation(int UnitNo)$/;"	f
+ksh_getUnitBias	nepomuk/kr_shell.c	/^FlintType ksh_getUnitBias(int UnitNo)$/;"	f
+ksh_getUnitDefaults	nepomuk/kr_shell.c	/^void      ksh_getUnitDefaults(FlintType *act, FlintType *bias, int *st, $/;"	f
+ksh_getUnitFTypeName	nepomuk/kr_shell.c	/^char     *ksh_getUnitFTypeName(int UnitNo)$/;"	f
+ksh_getUnitInitialActivation	nepomuk/kr_shell.c	/^FlintType ksh_getUnitInitialActivation(int UnitNo)$/;"	f
+ksh_getUnitInputType	nepomuk/kr_shell.c	/^int       ksh_getUnitInputType(int unit_no)$/;"	f
+ksh_getUnitLayerNo	nepomuk/kr_shell.c	/^unsigned short      ksh_getUnitLayerNo(int UnitNo)$/;"	f
+ksh_getUnitName	nepomuk/kr_shell.c	/^char     *ksh_getUnitName(int UnitNo)$/;"	f
+ksh_getUnitOutFuncName	nepomuk/kr_shell.c	/^char     *ksh_getUnitOutFuncName(int UnitNo)$/;"	f
+ksh_getUnitOutput	nepomuk/kr_shell.c	/^FlintType ksh_getUnitOutput(int UnitNo)$/;"	f
+ksh_getUnitPosition	nepomuk/kr_shell.c	/^void      ksh_getUnitPosition(int UnitNo, struct PosType *position)$/;"	f
+ksh_getUnitSubnetNo	nepomuk/kr_shell.c	/^int       ksh_getUnitSubnetNo(int UnitNo)$/;"	f
+ksh_getUnitTType	nepomuk/kr_shell.c	/^int       ksh_getUnitTType(int unit_no)$/;"	f
+ksh_get_epoch_error	nepomuk/kr_shell.c	/^void ksh_get_epoch_error (tss,thamdis)$/;"	f
+ksh_get_pattern_error	nepomuk/kr_shell.c	/^void ksh_get_pattern_error(patno,pss,phamdis)$/;"	f
+ksh_get_target_pattern	nepomuk/kr_shell.c	/^void ksh_get_target_pattern (int patno)$/;"	f
+ksh_initializeNet	nepomuk/kr_shell.c	/^krui_err  ksh_initializeNet(float *parameterInArray, int NoOfInParams)$/;"	f
+ksh_isConnected	nepomuk/kr_shell.c	/^bool      ksh_isConnected(int source_unit_no)$/;"	f
+ksh_isUnitFrozen	nepomuk/kr_shell.c	/^bool      ksh_isUnitFrozen(int unit_no)$/;"	f
+ksh_jogWeights	nepomuk/kr_shell.c	/^void      ksh_jogWeights(FlintTypeParam minus, FlintTypeParam plus)$/;"	f
+ksh_learnAllPatterns	nepomuk/kr_shell.c	/^krui_err  ksh_learnAllPatterns(float *parameterInArray,int NoOfInParams,$/;"	f
+ksh_learnSinglePattern	nepomuk/kr_shell.c	/^krui_err  ksh_learnSinglePattern(int pattern_no,float *parameterInArray,$/;"	f
+ksh_loadNet	nepomuk/kr_shell.c	/^krui_err  ksh_loadNet(char *filename, char **netname)$/;"	f
+ksh_loadNewPatterns	nepomuk/kr_shell.c	/^krui_err  ksh_loadNewPatterns(char *filename, int *number)$/;"	f
+ksh_netname	nepomuk/kr_shell.c	/^char   *ksh_netname()$/;"	f
+ksh_netout	nepomuk/kr_shell.c	/^float ksh_netout(int index)$/;"	f
+ksh_newPattern	nepomuk/kr_shell.c	/^krui_err  ksh_newPattern(void)$/;"	f
+ksh_no_outputs	nepomuk/kr_shell.c	/^int   ksh_no_outputs()$/;"	f
+ksh_no_patterns	nepomuk/kr_shell.c	/^int   ksh_no_patterns()$/;"	f
+ksh_propagate_pattern	nepomuk/kr_shell.c	/^int ksh_propagate_pattern (int patno)$/;"	f
+ksh_putNet	nepomuk/kr_shell.c	/^void ksh_putNet( memNet *n )$/;"	f
+ksh_putPattern	nepomuk/kr_shell.c	/^void ksh_putPattern( memPat *p )$/;"	f
+ksh_readNetinfo	nepomuk/kr_shell.c	/^int ksh_readNetinfo( void )$/;"	f
+ksh_saveNet	nepomuk/kr_shell.c	/^krui_err  ksh_saveNet(char *filename, char *netname)$/;"	f
+ksh_saveNewPatterns	nepomuk/kr_shell.c	/^krui_err  ksh_saveNewPatterns(char *filename, int number)$/;"	f
+ksh_searchUnitName	nepomuk/kr_shell.c	/^int       ksh_searchUnitName(char *unit_name)$/;"	f
+ksh_setCurrentUnit	nepomuk/kr_shell.c	/^krui_err  ksh_setCurrentUnit(int unit_no)$/;"	f
+ksh_setLearnFunc	nepomuk/kr_shell.c	/^krui_err  ksh_setLearnFunc(char *learning_func)$/;"	f
+ksh_setLinkWeight	nepomuk/kr_shell.c	/^void      ksh_setLinkWeight(FlintTypeParam weight)$/;"	f
+ksh_setSeedNo	nepomuk/kr_shell.c	/^void      ksh_setSeedNo(long int seed)$/;"	f
+ksh_setUnitActFunc	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitActFunc(int unit_no, char *unitActFuncName)$/;"	f
+ksh_setUnitActivation	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitActivation(int UnitNo, FlintTypeParam unit_activation)$/;"	f
+ksh_setUnitBias	nepomuk/kr_shell.c	/^void      ksh_setUnitBias(int UnitNo, FlintTypeParam unit_bias)$/;"	f
+ksh_setUnitDefaults	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitDefaults(FlintTypeParam act, FlintTypeParam bias, $/;"	f
+ksh_setUnitFType	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitFType(int unit_no, char *Ftype_symbol)$/;"	f
+ksh_setUnitInitialActivation	nepomuk/kr_shell.c	/^void      ksh_setUnitInitialActivation(int UnitNo, $/;"	f
+ksh_setUnitLayerNo	nepomuk/kr_shell.c	/^void      ksh_setUnitLayerNo(int UnitNo, int layer_no)$/;"	f
+ksh_setUnitName	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitName(int unit_no, char *unit_name)$/;"	f
+ksh_setUnitOutFunc	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitOutFunc(int unit_no, char *unitOutFuncName)$/;"	f
+ksh_setUnitOutput	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitOutput(int unit_no, FlintTypeParam unit_output)$/;"	f
+ksh_setUnitPosition	nepomuk/kr_shell.c	/^void      ksh_setUnitPosition(int UnitNo, struct PosType *position)$/;"	f
+ksh_setUnitSubnetNo	nepomuk/kr_shell.c	/^void      ksh_setUnitSubnetNo(int UnitNo, int subnet_no)$/;"	f
+ksh_setUnitTType	nepomuk/kr_shell.c	/^krui_err  ksh_setUnitTType(int unit_no, int UnitTType)$/;"	f
+ksh_setUpdateFunc	nepomuk/kr_shell.c	/^krui_err  ksh_setUpdateFunc(char *update_func)$/;"	f
+ksh_set_init_function	nepomuk/kr_shell.c	/^int ksh_set_init_function(char *fname, int *no_initparams)$/;"	f
+ksh_set_learning_function	nepomuk/kr_shell.c	/^int ksh_set_learning_function(char *fname)$/;"	f
+ksh_set_update_function	nepomuk/kr_shell.c	/^int ksh_set_update_function(char *fname)$/;"	f
+ksh_shufflePatterns	nepomuk/kr_shell.c	/^krui_err  ksh_shufflePatterns(bool on_or_off)$/;"	f
+ksh_target	nepomuk/kr_shell.c	/^float ksh_target(int index)$/;"	f
+layerNo	nepomuk/nepomuk.h	/^         layerNo;$/;"	m	struct:__anon2
+layer_no	nepomuk/nepomuk.h	/^              layer_no;$/;"	m	struct:__anon4
+learnCV_errMsg	opt/learnCV.c	/^char *learnCV_errMsg(int err_code)$/;"	f
+learnCV_init	opt/learnCV.c	/^int learnCV_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+learnCV_work	opt/learnCV.c	/^int learnCV_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+learnEpochs	history/histUtils.h	/^    int learnEpochs;$/;"	m	struct:_HistRecord
+learnINIT_errMsg	opt/learnINIT.c	/^char *learnINIT_errMsg(int err_code)$/;"	f
+learnINIT_init	opt/learnINIT.c	/^int learnINIT_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+learnINIT_work	opt/learnINIT.c	/^int learnINIT_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+learnModul	pre/optInitPop.c	/^static char  learnModul[MAX_MODUL_NAME] = "learnSNNS";$/;"	v	file:
+learnParam	opt/learnCV.c	/^static float learnParam[5]                  = {0.0, 0.0, 0.0, 5.0, 0.0};$/;"	v	file:
+learnParam	opt/learnINIT.c	/^static float learnParam[5]                  = {0.0, 0.0, 0.0, 5.0, 0.0};$/;"	v	file:
+learnParam	opt/learnSNNS.c	/^static float learnParam[5]                  = {0.0, 0.0, 0.0, 5.0, 0.0};$/;"	v	file:
+learnParam	pre/initTrain.c	/^static float learnParam[5]                  = {0.0, 0.0, 0.0, 5.0, 0.0};$/;"	v	file:
+learnPattern	opt/learnCV.c	/^static PatID learnPattern                   = NULL;$/;"	v	file:
+learnPattern	opt/learnINIT.c	/^static PatID learnPattern                   = NULL;$/;"	v	file:
+learnPattern	opt/learnSNNS.c	/^static PatID learnPattern                   = NULL;$/;"	v	file:
+learnPattern	pre/initTrain.c	/^static PatID learnPattern                   = NULL;$/;"	v	file:
+learnRating_errMsg	eval/learnRating.c	/^char *learnRating_errMsg(int err_code)$/;"	f
+learnRating_init	eval/learnRating.c	/^int learnRating_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+learnRating_work	eval/learnRating.c	/^int learnRating_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+learnSNNS_errMsg	opt/learnSNNS.c	/^char *learnSNNS_errMsg(int err_code)$/;"	f
+learnSNNS_init	opt/learnSNNS.c	/^int learnSNNS_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+learnSNNS_work	opt/learnSNNS.c	/^int learnSNNS_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+learn_params	nepomuk/kr_shell.c	/^static float learn_params[5],  \/* Lern-Parameter *\/$/;"	v	file:
+learnfct	opt/learnCV.c	/^static char  learnfct[MAX_SNNSFCT]          = DEFAULT_LEARN_FUNC;$/;"	v	file:
+learnfct	opt/learnINIT.c	/^static char  learnfct[MAX_INITFCT]          = DEFAULT_LEARN_FUNC;$/;"	v	file:
+learnfct	opt/learnSNNS.c	/^static char  learnfct[MAX_SNNSFCT]          = DEFAULT_LEARN_FUNC;$/;"	v	file:
+learnfct	pre/initTrain.c	/^static char  learnfct[MAX_SNNSFCT]          = DEFAULT_LEARN_FUNC;$/;"	v	file:
+lfp	enzo.c	/^static FILE *lfp;      \/* log-file-pointer *\/$/;"	v	file:
+linCross_errMsg	crossover/linCross.c	/^char *linCross_errMsg(int err_code)$/;"	f
+linCross_init	crossover/linCross.c	/^int linCross_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+linCross_work	crossover/linCross.c	/^int linCross_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+line_graf	history/Xgraf/graf.c	/^void line_graf(float  x1, float  y1, float  x2, float  y2) $/;"	f
+loadPop_errMsg	pre/loadPop.c	/^char *loadPop_errMsg( int err_code )$/;"	f
+loadPop_init	pre/loadPop.c	/^int loadPop_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+loadPop_work	pre/loadPop.c	/^int loadPop_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+loadSNNSPat_errMsg	pre/loadSNNSPat.c	/^char *loadSNNSPat_errMsg(int err_code)$/;"	f
+loadSNNSPat_init	pre/loadSNNSPat.c	/^int loadSNNSPat_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+loadSNNSPat_work	pre/loadSNNSPat.c	/^int loadSNNSPat_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+localTables_errMsg	enzo.c	/^static char *localTables_errMsg( int err_code )$/;"	f	file:
+logCnt	stop/stopIt.c	/^static int logCnt = 10; \/* logprint every logCnt generations a "[generation]" *\/$/;"	v	file:
+lowDec	eval/classes.c	/^static float lowDec     = -1.0;          \/* this means check for the maximum *\/$/;"	v	file:
+lowerBound	pre/hiddenInitPop.c	/^static int   lowerBound = 0;$/;"	v	file:
+lowerBound	pre/inputInit.c	/^static int   lowerBound = 0;$/;"	v	file:
+main	enzo.c	/^int main( int argc, char *argv[] )$/;"	f
+main	history/Xgraf/xgraf.c	/^int main(argc, argv)$/;"	f
+main	history/Xgraf/xgraf_demo.c	/^int main(argc, argv)$/;"	f
+markDeadInputs	history/saveThem.c	/^static int   markDeadInputs = FALSE;$/;"	v	file:
+markDeadInputs	post/saveAll.c	/^static int   markDeadInputs = TRUE;$/;"	v	file:
+maxEpochs	opt/learnCV.c	/^static int   maxEpochs                      = 50;$/;"	v	file:
+maxEpochs	opt/learnINIT.c	/^static int   maxEpochs                      = 50;$/;"	v	file:
+maxEpochs	opt/learnSNNS.c	/^static int   maxEpochs                      = 50;$/;"	v	file:
+maxEpochs	pre/initTrain.c	/^static int   maxEpochs                      = 50;$/;"	v	file:
+maxTss	eval/learnRating.c	/^static float    maxTss           =   0.5;$/;"	v	file:
+maxTss	opt/learnINIT.c	/^static float maxTss                         = 0.5;$/;"	v	file:
+maxTss	opt/learnSNNS.c	/^static float maxTss                         = 0.5;$/;"	v	file:
+maxTss	pre/initTrain.c	/^static float maxTss                         = 0.5;$/;"	v	file:
+maxTss	pre/optInitPop.c	/^static float maxTss                     = 0.5;$/;"	v	file:
+max_netPop_size	nepomuk/nepomuk.c	/^static int     max_netPop_size;      \/* Maximum number of nets to store.      *\/$/;"	v	file:
+max_patPop_size	nepomuk/nepomuk.c	/^static int     max_patPop_size;      \/* Maximum number of pats to store.      *\/$/;"	v	file:
+message	history/Xgraf/xgraf.c	/^	char *message;$/;"	m	struct:protokoll	file:
+missRating	eval/bestGuessHigh.c	/^static float missRating = 10.0;$/;"	v	file:
+missRating	eval/bestGuessLow.c	/^static float missRating = 10.0;$/;"	v	file:
+missRating	eval/classes.c	/^static float missRating = 1.0;$/;"	v	file:
+missRating	eval/distClass.c	/^static float missRating = 1.0;$/;"	v	file:
+modulNo	pre/optInitPop.c	/^static int   modulNo                    = -1;$/;"	v	file:
+mutInputs_errMsg	mutation/mutInputs.c	/^char *mutInputs_errMsg(int err_code)$/;"	f
+mutInputs_init	mutation/mutInputs.c	/^int mutInputs_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+mutInputs_work	mutation/mutInputs.c	/^int mutInputs_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+mutLinks_errMsg	mutation/mutLinks.c	/^char *mutLinks_errMsg(int err_code)$/;"	f
+mutLinks_init	mutation/mutLinks.c	/^int mutLinks_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+mutLinks_work	mutation/mutLinks.c	/^int mutLinks_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+mutUnits_errMsg	mutation/mutUnits.c	/^char *mutUnits_errMsg(int err_code)$/;"	f
+mutUnits_init	mutation/mutUnits.c	/^int mutUnits_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+mutUnits_work	mutation/mutUnits.c	/^int mutUnits_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+mutation	enzo.c	/^static void mutation( void )$/;"	f	file:
+mutationTable	enzo.c	/^                        mutationTable  [MAX_LTABLE_ENTRIES],$/;"	v	file:
+my_module_errMsg	examples/my_module.c	/^char *my_module_errMsg( int err_code )$/;"	f
+my_module_init	examples/my_module.c	/^int my_module_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+my_module_work	examples/my_module.c	/^int my_module_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+my_param	examples/my_module.c	/^int my_param = 42;  \/* use a meaningful value as default *\/$/;"	v
+my_strdup	nepomuk/nepomuk.c	/^static char *my_strdup( char *s )  \/* strdup() doesn't check for NULL         *\/$/;"	f	file:
+name	enzo.h	/^    char *name;$/;"	m	struct:_ModuleTableEntry
+name	nepomuk/nepomuk.h	/^    char *name,$/;"	m	struct:__anon2
+name	nepomuk/nepomuk.h	/^    char *name;$/;"	m	struct:_PopPat
+netMember	nepomuk/nepomuk.c	/^static PopNet *netMember;            \/* The nets live in here.                *\/$/;"	v	file:
+netin	nepomuk/kr_shell.c	/^static float *netin = NULL;$/;"	v	file:
+netname	nepomuk/kr_shell.c	/^static char *netname;$/;"	v	file:
+netout	nepomuk/kr_shell.c	/^static float *netout = NULL;$/;"	v	file:
+next	history/Xgraf/xgraf.c	/^        struct protokoll *next;$/;"	m	struct:protokoll	typeref:struct:protokoll::protokoll	file:
+next_prot	history/Xgraf/xgraf.c	/^static Protokoll protokoll = {NULL, NULL}, *next_prot = &protokoll;$/;"	v	file:
+no_initParams	pre/initPop.c	/^static int   no_initParams = 4;$/;"	v	file:
+no_initParams	pre/startPop.c	/^static int   no_initParams = 4;$/;"	v	file:
+no_inputs	nepomuk/kr_shell.c	/^    no_inputs,    \/* Anzahl Eingabe-Neuronen *\/$/;"	v	file:
+no_learnparams	nepomuk/kr_shell.c	/^            no_learnparams;    \/* Anzahl Parameter der Lernfunktion *\/$/;"	v	file:
+no_links	nepomuk/kr_shell.c	/^    no_links,     \/* Anzahl Gewichte im Netz *\/$/;"	v	file:
+no_of_links	nepomuk/nepomuk.h	/^              no_of_links;$/;"	m	struct:__anon4
+no_of_units	nepomuk/nepomuk.h	/^    int       no_of_units,$/;"	m	struct:__anon4
+no_outputs	nepomuk/kr_shell.c	/^    no_outputs,   \/* Anzahl Ausgabe-Neuronen *\/$/;"	v	file:
+no_patterns	nepomuk/kr_shell.c	/^    no_patterns;  \/* Anzahl Muster *\/$/;"	v	file:
+no_sites	nepomuk/kr_shell.c	/^    no_sites,      $/;"	v	file:
+no_units	nepomuk/kr_shell.c	/^    no_units,     \/* Gesamtzahl Neuronen im Netz *\/$/;"	v	file:
+no_updateparams	nepomuk/kr_shell.c	/^static int  no_updateparams,   \/* Anzahl Parameter der Updatefunktion *\/$/;"	v	file:
+nolearnRating	eval/learnRating.c	/^static float    nolearnRating    = 200.0;$/;"	v	file:
+noneRating	eval/bestGuessHigh.c	/^static float noneRating = 10.0;$/;"	v	file:
+noneRating	eval/bestGuessLow.c	/^static float noneRating = 10.0;$/;"	v	file:
+noneRating	eval/classes.c	/^static float noneRating = 1.0;$/;"	v	file:
+noneRating	eval/distClass.c	/^static float noneRating = 1.0;$/;"	v	file:
+nullWeg_errMsg	opt/nullWeg.c	/^char *nullWeg_errMsg( int err_code )$/;"	f
+nullWeg_init	opt/nullWeg.c	/^int nullWeg_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+nullWeg_work	opt/nullWeg.c	/^int nullWeg_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+number	nepomuk/nepomuk.h	/^    int number;$/;"	m	struct:__anon2
+number_graf	history/Xgraf/graf.c	/^void number_graf(float  x, float  y, int  number)  $/;"	f
+offSize	selection/uniformSel.c	/^static int   offSize = OFF_SIZE_VALUE;$/;"	v	file:
+offsprings	enzo.c	/^             offsprings = NULL,$/;"	v	file:
+opt	crossover/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	eval/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	examples/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	history/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	makefile	/^opt:=   CFLAGS += -O4$/;"	m
+opt	makefile	/^opt:=   SUBTARGET  += opt$/;"	m
+opt	mutation/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	nepomuk/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	opt/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	post/makefile	/^opt:=   CFLAGS += -O4$/;"	m
+opt	pre/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	selection/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	stop/makefile	/^opt:= CFLAGS += -O4$/;"	m
+opt	survival/makefile	/^opt:= CFLAGS += -O4$/;"	m
+optInitPop_errMsg	pre/optInitPop.c	/^char *optInitPop_errMsg (int err_code)$/;"	f
+optInitPop_init	pre/optInitPop.c	/^int optInitPop_init (ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+optInitPop_work	pre/optInitPop.c	/^int optInitPop_work (PopID *parents, PopID *offsprings, PopID *reference)$/;"	f
+optTable	enzo.c	/^                        optTable       [MAX_LTABLE_ENTRIES],$/;"	v	file:
+optimization	enzo.c	/^static void optimization( void )$/;"	f	file:
+outFuncName	nepomuk/nepomuk.h	/^         *outFuncName,$/;"	m	struct:__anon2
+out_func	nepomuk/nepomuk.h	/^             *out_func;$/;"	m	struct:__anon4
+output	nepomuk/nepomuk.h	/^              output,$/;"	m	struct:__anon2
+outputs	nepomuk/kr_shell.c	/^static int *outputs = NULL;  \/* Liste der Ausgabeunits *\/$/;"	v	file:
+parent1	history/histUtils.h	/^    HistID parent1, parent2;$/;"	m	struct:_HistRecord
+parent1	networkData.h	/^    NetID parent1, parent2;          \/* No. of parents, from the parentpop.   *\/$/;"	m	struct:__anon1
+parent2	history/histUtils.h	/^    HistID parent1, parent2;$/;"	m	struct:_HistRecord
+parent2	networkData.h	/^    NetID parent1, parent2;          \/* No. of parents, from the parentpop.   *\/$/;"	m	struct:__anon1
+parents	enzo.c	/^static PopID parents    = NULL,$/;"	v	file:
+patMember	nepomuk/nepomuk.c	/^static PopPat *patMember;            \/* The pats live in here.                *\/$/;"	v	file:
+patternCross	pre/loadSNNSPat.c	/^static char  patternCross[MAX_FILENAME_LEN]  = "";$/;"	v	file:
+patternLearn	pre/loadSNNSPat.c	/^static char  patternLearn[MAX_FILENAME_LEN]  = "";$/;"	v	file:
+patternTest	pre/loadSNNSPat.c	/^static char  patternTest[MAX_FILENAME_LEN]   = "";$/;"	v	file:
+pfp	history/Xgraf/graf.c	/^static FILE *pfp; \/* Filepointer fuer 'popen' auf Fensterprogramm       *\/$/;"	v	file:
+pixel_dot_graf	history/Xgraf/graf.c	/^static void pixel_dot_graf(int  x1, int  y1)$/;"	f	file:
+pixel_line_graf	history/Xgraf/graf.c	/^static void pixel_line_graf(int  x1, int  y1, int  x2, int  y2) $/;"	f	file:
+pixel_text_graf	history/Xgraf/graf.c	/^static void pixel_text_graf(int  x1, int  y1, char  *non_white_text)$/;"	f	file:
+point_graf	history/Xgraf/graf.c	/^void point_graf(float  x, float  y)  $/;"	f
+popIDcnt	nepomuk/nepomuk.c	/^static PopID popIDcnt = 1;           \/* PopID counter                         *\/$/;"	v	file:
+popSize	survival/fittest.c	/^int popSize;$/;"	v
+popsize	pre/loadPop.c	/^static int popsize                     = POP_SIZE_VALUE;$/;"	v	file:
+population_size	pre/genpopNepomuk.c	/^static int population_size = POP_SIZE_VALUE;$/;"	v	file:
+population_size	pre/initPop.c	/^static int population_size             = POP_SIZE_VALUE; $/;"	v	file:
+population_size	pre/startPop.c	/^static int population_size             = POP_SIZE_VALUE; $/;"	v	file:
+position	nepomuk/nepomuk.h	/^    struct PosType    position;$/;"	m	struct:__anon2	typeref:struct:__anon2::PosType
+postTable	enzo.c	/^                        postTable      [MAX_LTABLE_ENTRIES];$/;"	v	file:
+post_evolution	enzo.c	/^static void post_evolution( void )$/;"	f	file:
+ppi	eval/topoEval.c	/^static float    ppw  = 0.0, ppu = 0.0, ppi = 0.0;$/;"	v	file:
+ppu	eval/topoEval.c	/^static float    ppw  = 0.0, ppu = 0.0, ppi = 0.0;$/;"	v	file:
+ppw	eval/topoEval.c	/^static float    ppw  = 0.0, ppu = 0.0, ppi = 0.0;$/;"	v	file:
+preTable	enzo.c	/^static ModuleTableEntry preTable       [MAX_LTABLE_ENTRIES],$/;"	v	file:
+pre_evolution	enzo.c	/^static void pre_evolution( void )$/;"	f	file:
+pred	mutation/mutUnits.c	/^static int           *pred     = NULL;$/;"	v	file:
+preferSel_errMsg	selection/preferSel.c	/^char *preferSel_errMsg( int err_code )$/;"	f
+preferSel_init	selection/preferSel.c	/^int preferSel_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+preferSel_work	selection/preferSel.c	/^int preferSel_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+preferfactor	selection/preferSel.c	/^static float preferfactor   = 3.0;$/;"	v	file:
+print_net_list	nepomuk/nepomuk.c	/^static void print_net_list( void )$/;"	f	file:
+prob	mutation/mutInputs.c	/^static float         prob      = 0.5;$/;"	v	file:
+prob	mutation/mutUnits.c	/^static float         prob      = 0.5;$/;"	v	file:
+probAdd	mutation/mutLinks.c	/^static float     probAdd   = 0.0;  \/* prob. for adding an absend link         *\/$/;"	v	file:
+probAdd	mutation/simpleMut.c	/^static float     probAdd   = 0.0;  \/* prob. for adding an absend link         *\/$/;"	v	file:
+probCross	crossover/linCross.c	/^static float     probCross = 0.5;  \/* prob. for inserting an existing link   *\/$/;"	v	file:
+probDel	mutation/mutLinks.c	/^static float     probDel   = 0.0;  \/* prob. for deleting an existing link     *\/$/;"	v	file:
+probDel	mutation/simpleMut.c	/^static float     probDel   = 0.0;  \/* prob. for deleting an existing link     *\/$/;"	v	file:
+probDelEnd	mutation/mutLinks.c	/^static int       probDelEnd   = 0;     \/* generation to reach probDel *\/$/;"	v	file:
+probDelStart	mutation/mutLinks.c	/^static float     probDelStart = 0.0;   \/* start with this prob for deleting *\/$/;"	v	file:
+process_message	history/Xgraf/xgraf.c	/^static void process_message(string)$/;"	f	file:
+protokoll	history/Xgraf/xgraf.c	/^static Protokoll protokoll = {NULL, NULL}, *next_prot = &protokoll;$/;"	v	file:
+protokoll	history/Xgraf/xgraf.c	/^typedef struct protokoll {$/;"	s	file:
+prune_errMsg	opt/prune.c	/^char *prune_errMsg( int err_code )$/;"	f
+prune_init	opt/prune.c	/^int prune_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+prune_work	opt/prune.c	/^int prune_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+pruned	history/histUtils.h	/^    int pruned;$/;"	m	struct:_HistRecord
+psf	history/ancestry.c	/^static FILE   *psf;$/;"	v	file:
+pwu	mutation/mutUnits.c	/^static int           pwu       = TRUE;$/;"	v	file:
+radius	eval/distClass.c	/^static float radius     = 0.5;     \/* (1\/sqrt(2))^2 *\/$/;"	v	file:
+range	mutation/mutInputs.c	/^static float         range     = 0.5;$/;"	v	file:
+range	mutation/mutLinks.c	/^static float     range     = 0.5;$/;"	v	file:
+range	mutation/mutUnits.c	/^static float         range     = 0.5;$/;"	v	file:
+range	mutation/simpleMut.c	/^static float     range     = 0.5;$/;"	v	file:
+read_proc	history/Xgraf/xgraf.c	/^Notify_value read_proc(client, fd) $/;"	f
+refDesc	crossover/linCross.c	/^static NetDescr  refDesc;          \/* Pointer to the description of the      *\/$/;"	v	file:
+refDesc	mutation/mutInputs.c	/^static NetDescr      refDesc;     \/* Pointer to the description of the       *\/$/;"	v	file:
+refDesc	mutation/mutLinks.c	/^static NetDescr  refDesc;          \/* Pointer to the description of the       *\/$/;"	v	file:
+refDesc	mutation/mutUnits.c	/^static NetDescr      refDesc;     \/* Pointer to the description of the       *\/$/;"	v	file:
+refDesc	mutation/simpleMut.c	/^static NetDescr  refDesc;          \/* Pointer to the description of the       *\/$/;"	v	file:
+refInputUnits	eval/topoRating.c	/^static int      refInputUnits, refNoOfUnits, refNoOfLinks;$/;"	v	file:
+refNet	mutation/mutInputs.c	/^static NetID         refNet;$/;"	v	file:
+refNet	mutation/mutUnits.c	/^static NetID         refNet;$/;"	v	file:
+refNoOfLinks	eval/topoRating.c	/^static int      refInputUnits, refNoOfUnits, refNoOfLinks;$/;"	v	file:
+refNoOfUnits	eval/topoRating.c	/^static int      refInputUnits, refNoOfUnits, refNoOfLinks;$/;"	v	file:
+reference	enzo.c	/^             reference  = NULL;  \/* contains the max. network                 *\/$/;"	v	file:
+relearn	opt/relearn.c	/^static float relearn = 1.0;$/;"	v	file:
+relearn_errMsg	opt/relearn.c	/^char *relearn_errMsg(int err_code)$/;"	f
+relearn_init	opt/relearn.c	/^int relearn_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+relearn_work	opt/relearn.c	/^int relearn_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+reset_localTables	enzo.c	/^static void reset_localTables( void )$/;"	f	file:
+result	opt/jogWeights.c	/^static int   result  = 0;         \/* no of the error-code -> internal use    *\/$/;"	v	file:
+result	opt/relearn.c	/^static int   result  = 0;         \/* no of the error-code -> internal use    *\/$/;"	v	file:
+rndSubset	eval/distClass.c	/^static int rndSubset = 0;$/;"	v	file:
+rndSubset	eval/tssEval.c	/^static int rndSubset = 0;$/;"	v	file:
+saveAll_errMsg	post/saveAll.c	/^char *saveAll_errMsg( int err_code )$/;"	f
+saveAll_init	post/saveAll.c	/^int saveAll_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+saveAll_work	post/saveAll.c	/^int saveAll_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+saveGen	history/saveThem.c	/^static int   saveGen        = 0;$/;"	v	file:
+saveNetsCnt	history/saveThem.c	/^static int   saveNetsCnt    = 99;$/;"	v	file:
+saveNetsCnt	post/saveAll.c	/^static int   saveNetsCnt    = 99;$/;"	v	file:
+saveThem_errMsg	history/saveThem.c	/^char *saveThem_errMsg( int err_code )$/;"	f
+saveThem_init	history/saveThem.c	/^int saveThem_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+saveThem_work	history/saveThem.c	/^int saveThem_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+scale_x	history/Xgraf/graf.c	/^static float    scale_x, scale_y;         \/* Koordinateneinheiten\/Pixel *\/$/;"	v	file:
+scale_y	history/Xgraf/graf.c	/^static float    scale_x, scale_y;         \/* Koordinateneinheiten\/Pixel *\/$/;"	v	file:
+selProb	selection/uniformSel.c	/^static float selProb = 0.5;$/;"	v	file:
+selThresh	networkData.h	/^    float  selThresh;                \/* threshold for pattern selection       *\/$/;"	m	struct:__anon1
+select_feature	crossover/implant.c	/^int select_feature( NetID donor, NetID net )$/;"	f
+selectedPattern	networkData.h	/^    int   *selectedPattern;          \/* pointer to selected patterns          *\/$/;"	m	struct:__anon1
+selection	enzo.c	/^static void selection( void )$/;"	f	file:
+selectionTable	enzo.c	/^                        selectionTable [MAX_LTABLE_ENTRIES],$/;"	v	file:
+setSNNSUnitInformations	mutation/mutUnits.c	/^void setSNNSUnitInformations (int unit_no, int index)$/;"	f
+setcoord_graf	history/Xgraf/graf.c	/^void setcoord_graf(float  x_min, float  x_max, float  y_min, float  y_max)$/;"	f
+show_usage	enzo.c	/^static void show_usage( char *prg_name )$/;"	f	file:
+shuffleFlag	opt/learnCV.c	/^static int   shuffleFlag                    = TRUE;$/;"	v	file:
+shuffleFlag	opt/learnINIT.c	/^static int   shuffleFlag                    = TRUE;$/;"	v	file:
+shuffleFlag	opt/learnSNNS.c	/^static int   shuffleFlag                    = TRUE;$/;"	v	file:
+shuffleFlag	pre/initTrain.c	/^static int   shuffleFlag                    = TRUE;$/;"	v	file:
+sigmoid	opt/Cupit/actfunc.c	/^Real sigmoid (Real x)$/;"	f
+sigmoidPrime	opt/Cupit/actfunc.c	/^Real sigmoidPrime (Real x)$/;"	f
+signal_evolution	enzo.c	/^int signal_evolution = FALSE;$/;"	v
+simpleMut_errMsg	mutation/simpleMut.c	/^char *simpleMut_errMsg(int err_code)$/;"	f
+simpleMut_init	mutation/simpleMut.c	/^int simpleMut_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+simpleMut_work	mutation/simpleMut.c	/^int simpleMut_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+slots	history/histUtils.h	/^    float slots[20];$/;"	m	struct:_HistRecord
+snnsNet	nepomuk/nepomuk.h	/^    memNet snnsNet;   \/* this is the structure returned from krm_getNet() *\/$/;"	m	struct:_PopNet
+snnsPat	nepomuk/nepomuk.h	/^    memPat snnsPat;  \/* this is the structure returned from krm_getPat() *\/$/;"	m	struct:_PopPat
+sortIndex	mutation/mutUnits.c	/^void sortIndex ( int bound )$/;"	f
+source	nepomuk/nepomuk.h	/^    int source, target;$/;"	m	struct:__anon3
+split	mutation/mutInputs.c	/^static float         split     = 0.5;$/;"	v	file:
+split	mutation/mutUnits.c	/^static float         split     = 0.5;$/;"	v	file:
+splitLine	enzo.c	/^static int splitLine( char *line, char *argv[] )$/;"	f	file:
+ssigma	mutation/mutLinks.c	/^static float     ssigma    = 1.0;  $/;"	v	file:
+startName	pre/startPop.c	/^static char startName[MAX_FILENAME_LEN] = "enzo.net"; $/;"	v	file:
+startPop_errMsg	pre/startPop.c	/^char *startPop_errMsg (int err_code)$/;"	f
+startPop_init	pre/startPop.c	/^int startPop_init (ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+startPop_work	pre/startPop.c	/^int startPop_work (PopID *parents, PopID *offsprings, PopID *reference)$/;"	f
+start_graf	history/Xgraf/graf.c	/^char *start_graf(char  *name, int  x_size, int  y_size, int  x_pos, int  y_pos)$/;"	f
+stopErr_errMsg	stop/stopErr.c	/^char *stopErr_errMsg( int err_code )$/;"	f
+stopErr_init	stop/stopErr.c	/^int stopErr_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+stopErr_work	stop/stopErr.c	/^int stopErr_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+stopIt_errMsg	stop/stopIt.c	/^char *stopIt_errMsg( int err_code )$/;"	f
+stopIt_init	stop/stopIt.c	/^int stopIt_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+stopIt_work	stop/stopIt.c	/^int stopIt_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+stopTable	enzo.c	/^                        stopTable      [MAX_LTABLE_ENTRIES],$/;"	v	file:
+stop_evolution	enzo.c	/^static int stop_evolution = DO_EVOLUTION;  \/* evolution is still in progress  *\/$/;"	v	file:
+strength	nepomuk/nepomuk.h	/^    FlintType strength;$/;"	m	struct:__anon3
+subPop	nepomuk/nepomuk.h	/^    int subPop;$/;"	m	struct:_PopNet
+subPop	nepomuk/nepomuk.h	/^    int subPop;$/;"	m	struct:_PopPat
+subnetNo	nepomuk/nepomuk.h	/^    int  subnetNo,$/;"	m	struct:__anon2
+subnet_no	nepomuk/nepomuk.h	/^              subnet_no,$/;"	m	struct:__anon4
+subul_createNet	subUtils.c	/^krui_err subul_createNet( int layers, int neurons[], int shortcuts )$/;"	f
+subul_deadInputUnit	subUtils.c	/^int subul_deadInputUnit( int unit )$/;"	f
+subul_getPatID	subUtils.c	/^PatID subul_getPatID( char *name)$/;"	f
+subul_netcmp	subUtils.c	/^int subul_netcmp( NetID id_1, NetID id_2 )$/;"	f
+succ	mutation/mutUnits.c	/^static int           *succ     = NULL;$/;"	v	file:
+survival	enzo.c	/^static void survival( void )$/;"	f	file:
+survivalTable	enzo.c	/^                        survivalTable  [MAX_LTABLE_ENTRIES],$/;"	v	file:
+target	nepomuk/kr_shell.c	/^static float *target = NULL;$/;"	v	file:
+target	nepomuk/nepomuk.h	/^    int source, target;$/;"	m	struct:__anon3
+testFitness	history/histUtils.h	/^    float testFitness;$/;"	m	struct:_HistRecord
+testHam	history/histUtils.h	/^    int   testHam;$/;"	m	struct:_HistRecord
+testHit	history/histUtils.h	/^    int   testHit;$/;"	m	struct:_HistRecord
+testMiss	history/histUtils.h	/^    int   testMiss;$/;"	m	struct:_HistRecord
+testNone	history/histUtils.h	/^    int   testNone;$/;"	m	struct:_HistRecord
+testPats	eval/distClass.c	/^static PatID testPats   = NULL;$/;"	v	file:
+testPattern	opt/learnINIT.c	/^static PatID testPattern                    = NULL; $/;"	v	file:
+testPattern	opt/learnSNNS.c	/^static PatID testPattern                    = NULL; $/;"	v	file:
+testPattern	pre/initTrain.c	/^static PatID testPattern                    = NULL; $/;"	v	file:
+testTss	history/histUtils.h	/^    float testTss;$/;"	m	struct:_HistRecord
+test_evolution	enzo.c	/^static void test_evolution( void )$/;"	f	file:
+text_graf	history/Xgraf/graf.c	/^void text_graf(float  x, float  y,char  *text)  $/;"	f
+thresh	opt/adapPrune.c	/^static float thresh       = 0.0;$/;"	v	file:
+thresh	opt/prune.c	/^static float thresh       = 0.0;$/;"	v	file:
+threshEnd	opt/prune.c	/^static int   threshEnd     = 0;$/;"	v	file:
+threshStart	opt/prune.c	/^static float threshStart  = 0.0;$/;"	v	file:
+threshold	eval/bestGuessHigh.c	/^static float threshold  =  0.3;$/;"	v	file:
+threshold	eval/bestGuessLow.c	/^static float threshold  =  0.7;$/;"	v	file:
+threshold	history/histUtils.h	/^    float threshold;   \/* threshold for pruning, added masch 13.05.94       *\/$/;"	m	struct:_HistRecord
+timestr	enzo.c	/^static char *timestr( void )$/;"	f	file:
+tmpFileName	opt/learnCV.c	/^static char  tmpFileName[MAX_FILENAME_LEN]  = "enzo.tmp";$/;"	v	file:
+tmpFileName	opt/learnINIT.c	/^static char  tmpFileName[MAX_FILENAME_LEN]  = "enzo.tmp";$/;"	v	file:
+tmpFileName	opt/learnSNNS.c	/^static char  tmpFileName[MAX_FILENAME_LEN]  = "enzo.tmp";$/;"	v	file:
+tmpFileName	pre/initTrain.c	/^static char  tmpFileName[MAX_FILENAME_LEN]  = "enzo.tmp";$/;"	v	file:
+topoEval_errMsg	eval/topoEval.c	/^char *topoEval_errMsg( int err_code )$/;"	f
+topoEval_init	eval/topoEval.c	/^int topoEval_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+topoEval_work	eval/topoEval.c	/^int topoEval_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+topologyRating_errMsg	eval/topoRating.c	/^char *topologyRating_errMsg(int err_code)$/;"	f
+topologyRating_init	eval/topoRating.c	/^int topologyRating_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+topologyRating_work	eval/topoRating.c	/^int topologyRating_work( PopID *parents, PopID *offsprings, PopID *reference )$/;"	f
+trimStr	enzo.c	/^static char *trimStr( char *string )$/;"	f	file:
+tss	networkData.h	/^    float tss;                       \/* Error after last learning             *\/$/;"	m	struct:__anon1
+tssEval_errMsg	eval/tssEval.c	/^char *tssEval_errMsg( int err_code )$/;"	f
+tssEval_init	eval/tssEval.c	/^int tssEval_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+tssEval_work	eval/tssEval.c	/^int tssEval_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+tssRating	eval/learnRating.c	/^static float    tssRating        =   0.0;$/;"	v	file:
+type	enzo.h	/^    int type;$/;"	m	struct:_ModuleTableEntry
+ulf_net_alloc	nepomuk/nepomuk.c	/^static NetID ulf_net_alloc( void )$/;"	f	file:
+ulf_net_free	nepomuk/nepomuk.c	/^static void ulf_net_free( NetID id )$/;"	f	file:
+ulf_pat_alloc	nepomuk/nepomuk.c	/^static PatID ulf_pat_alloc( void )$/;"	f	file:
+ulf_pat_free	nepomuk/nepomuk.c	/^static void ulf_pat_free( PatID id )$/;"	f	file:
+unifSel_errMsg	selection/uniformSel.c	/^char *unifSel_errMsg( int err_code )$/;"	f
+unifSel_init	selection/uniformSel.c	/^int unifSel_init( ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+unifSel_work	selection/uniformSel.c	/^int unifSel_work( PopID *parents, PopID *offsprings, PopID *ref )$/;"	f
+unitrating	eval/topoRating.c	/^static float    unitrating       = 0.0;$/;"	v	file:
+units	nepomuk/nepomuk.h	/^    UnitDescr   *units;$/;"	m	struct:__anon4
+update_params	nepomuk/kr_shell.c	/^       update_params[5];     \/* Update-Parameter *\/$/;"	v	file:
+upperBound	pre/inputInit.c	/^static int   upperBound = 0;$/;"	v	file:
+used	nepomuk/nepomuk.h	/^    int used;$/;"	m	struct:_PopNet
+used	nepomuk/nepomuk.h	/^    int used;$/;"	m	struct:_PopPat
+usedSucc	nepomuk/nepomuk.h	/^    struct _PopNet *usedSucc;$/;"	m	struct:_PopNet	typeref:struct:_PopNet::_PopNet
+usedSucc	nepomuk/nepomuk.h	/^    struct _PopPat *usedSucc;$/;"	m	struct:_PopPat	typeref:struct:_PopPat::_PopPat
+userData	nepomuk/nepomuk.h	/^    void *userData;$/;"	m	struct:_PopNet
+userData	nepomuk/nepomuk.h	/^    void *userData;$/;"	m	struct:_PopPat
+utils_getNewNetData	networkData.c	/^NetworkData *utils_getNewNetData( void )$/;"	f
+weightInit_errMsg	pre/weightInit.c	/^char *weightInit_errMsg (int err_code)$/;"	f
+weightInit_init	pre/weightInit.c	/^int weightInit_init (ModuleTableEntry *self, int msgc, char *msgv[] )$/;"	f
+weightInit_work	pre/weightInit.c	/^int weightInit_work (PopID *parents, PopID *offsprings, PopID *reference)$/;"	f
+weightProb	pre/weightInit.c	/^static float weightProb      = 1.0;$/;"	v	file:
+weightrating	eval/topoRating.c	/^static float    weightrating     = 0.0;$/;"	v	file:
+weights	nepomuk/nepomuk.h	/^    WeightDescr *weights;$/;"	m	struct:__anon4
+win_x_len	history/Xhist.c	/^             win_x_len = WIN_X_LEN,$/;"	v	file:
+win_x_pos	history/Xhist.c	/^static int   win_x_pos = WIN_X_POS,$/;"	v	file:
+win_y_len	history/Xhist.c	/^             win_y_len = WIN_Y_LEN;$/;"	v	file:
+win_y_pos	history/Xhist.c	/^             win_y_pos = WIN_Y_POS,$/;"	v	file:
+window_open	history/Xgraf/xgraf.c	/^static window_open = 0; $/;"	v	file:
+window_x_size	history/Xgraf/graf.c	/^static float    window_x_size, window_y_size; \/* Groesse des ganzen Fensters *\/$/;"	v	file:
+window_y_size	history/Xgraf/graf.c	/^static float    window_x_size, window_y_size; \/* Groesse des ganzen Fensters *\/$/;"	v	file:
+workFct	enzo.h	/^    ModuleWorkFunction *workFct;$/;"	m	struct:_ModuleTableEntry
+writeFlag	opt/learnCV.c	/^static int   writeFlag                      = FALSE;$/;"	v	file:
+writeFlag	opt/learnINIT.c	/^static int   writeFlag                      = FALSE;$/;"	v	file:
+writeFlag	opt/learnSNNS.c	/^static int   writeFlag                      = FALSE;$/;"	v	file:
+writeFlag	pre/initTrain.c	/^static int   writeFlag                      = FALSE;$/;"	v	file:
+x_coord_max	history/Xgraf/graf.c	/^static float    x_coord_min, x_coord_max; \/* x-Koordinaten des Randes   *\/ $/;"	v	file:
+x_coord_min	history/Xgraf/graf.c	/^static float    x_coord_min, x_coord_max; \/* x-Koordinaten des Randes   *\/ $/;"	v	file:
+xll	history/Xhist.c	/^static float xll = 0.0,   yll = 0.0,               \/* lower left corner  *\/$/;"	v	file:
+xur	history/Xhist.c	/^             xur = (float) MAX_GENERATIONS_VALUE,  \/* upper right corner *\/$/;"	v	file:
+y_coord_max	history/Xgraf/graf.c	/^static float    y_coord_min, y_coord_max; \/* dto. fuer y                *\/$/;"	v	file:
+y_coord_min	history/Xgraf/graf.c	/^static float    y_coord_min, y_coord_max; \/* dto. fuer y                *\/$/;"	v	file:
+yll	history/Xhist.c	/^static float xll = 0.0,   yll = 0.0,               \/* lower left corner  *\/$/;"	v	file:
+yur	history/Xhist.c	/^             yur = 1000.0; $/;"	v	file:

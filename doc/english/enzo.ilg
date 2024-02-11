@@ -1,0 +1,6 @@
+This is makeindex, version 2.14 [02-Oct-2002] (kpathsea + Thai support).
+Scanning input file enzo.idx....done (234 entries accepted, 0 rejected).
+Sorting entries.....done (1909 comparisons).
+Generating output file enzo.index....done (338 lines written, 0 warnings).
+Output written in enzo.index.
+Transcript written in enzo.ilg.

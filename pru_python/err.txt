@@ -1,0 +1,231 @@
+make src  TARGET=all
+make[1]: Entering directory `/data2/net_neuronal/src/berlios_snns/ENZO'
+cd src; make all; 
+make[2]: Entering directory `/data2/net_neuronal/src/berlios_snns/ENZO/src'
+gcc -I../../SNNSv4.1/kernel/sources -Inepomuk -I..   -c -o enzo.o enzo.c
+In file included from enzo.h:61,
+                 from enzo.c:53:
+proto.h:55: error: conflicting types for `time'
+/usr/include/time.h:184: error: previous declaration of `time'
+proto.h:56: warning: conflicting types for built-in function `fprintf'
+proto.h:58: error: conflicting types for `vsprintf'
+/usr/include/stdio.h:311: error: previous declaration of `vsprintf'
+proto.h:59: error: conflicting types for `vfprintf'
+/usr/include/stdio.h:305: error: previous declaration of `vfprintf'
+In file included from enzo.c:53:
+enzo.h:64:22: glob_typ.h: No such file or directory
+enzo.h:65:20: kr_typ.h: No such file or directory
+enzo.h:66:26: enzo_mem_typ.h: No such file or directory
+In file included from enzo.h:68,
+                 from enzo.c:53:
+nepomuk/kr_shell.h:65: error: parse error before '*' token
+nepomuk/kr_shell.h:66: error: parse error before '*' token
+nepomuk/kr_shell.h:68: error: parse error before '*' token
+nepomuk/kr_shell.h:69: error: parse error before '*' token
+nepomuk/kr_shell.h:133: error: parse error before "ksh_allocateUnits"
+nepomuk/kr_shell.h:133: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:134: error: parse error before "ksh_areConnectedWeight"
+nepomuk/kr_shell.h:134: error: parse error before "FlintType"
+nepomuk/kr_shell.h:134: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:136: error: parse error before "ksh_createLink"
+nepomuk/kr_shell.h:136: error: parse error before "FlintTypeParam"
+nepomuk/kr_shell.h:136: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:138: error: parse error before "FlintTypeParam"
+nepomuk/kr_shell.h:140: error: parse error before "ksh_deleteAllOutputLinks"
+nepomuk/kr_shell.h:140: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:142: error: parse error before "ksh_deleteLink"
+nepomuk/kr_shell.h:142: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:143: error: parse error before "ksh_deleteUnitList"
+nepomuk/kr_shell.h:143: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:144: error: parse error before "ksh_freezeUnit"
+nepomuk/kr_shell.h:144: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:146: error: parse error before '*' token
+nepomuk/kr_shell.h:147: error: parse error before "FlintType"
+nepomuk/kr_shell.h:149: error: parse error before "ksh_getLinkWeight"
+nepomuk/kr_shell.h:149: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:154: error: parse error before '*' token
+nepomuk/kr_shell.h:155: error: parse error before '*' token
+nepomuk/kr_shell.h:160: error: parse error before "ksh_getUnitBias"
+nepomuk/kr_shell.h:160: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:164: warning: `struct PosType' declared inside parameter list
+nepomuk/kr_shell.h:164: warning: its scope is only this definition or declaration, which is probably not what you want
+nepomuk/kr_shell.h:166: error: parse error before "ksh_initializeNet"
+nepomuk/kr_shell.h:166: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:167: error: parse error before "ksh_isConnected"
+nepomuk/kr_shell.h:167: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:168: error: parse error before "ksh_isConnected"
+nepomuk/kr_shell.h:168: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:169: error: parse error before "ksh_learnAllPatterns"
+nepomuk/kr_shell.h:171: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:172: error: parse error before "ksh_learnSinglePattern"
+nepomuk/kr_shell.h:175: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:176: error: parse error before "ksh_loadNet"
+nepomuk/kr_shell.h:176: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:177: error: parse error before "ksh_newPattern"
+nepomuk/kr_shell.h:177: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:178: error: parse error before "ksh_saveNet"
+nepomuk/kr_shell.h:178: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:179: error: parse error before "ksh_setCurrentUnit"
+nepomuk/kr_shell.h:179: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:181: error: parse error before "ksh_setLearnFunc"
+nepomuk/kr_shell.h:181: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:182: error: parse error before "weight"
+nepomuk/kr_shell.h:184: error: parse error before "ksh_setUnitActFunc"
+nepomuk/kr_shell.h:184: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:185: error: parse error before "ksh_setUnitActivation"
+nepomuk/kr_shell.h:186: error: parse error before "FlintTypeParam"
+nepomuk/kr_shell.h:186: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:187: error: parse error before "FlintTypeParam"
+nepomuk/kr_shell.h:188: error: parse error before "ksh_setUnitFType"
+nepomuk/kr_shell.h:188: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:190: error: parse error before "FlintTypeParam"
+nepomuk/kr_shell.h:192: error: parse error before "ksh_setUnitName"
+nepomuk/kr_shell.h:192: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:193: error: parse error before "ksh_setUnitOutFunc"
+nepomuk/kr_shell.h:193: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:194: error: parse error before "ksh_setUnitOutput"
+nepomuk/kr_shell.h:194: error: parse error before "FlintTypeParam"
+nepomuk/kr_shell.h:194: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:195: warning: `struct PosType' declared inside parameter list
+nepomuk/kr_shell.h:197: error: parse error before "ksh_setUnitTType"
+nepomuk/kr_shell.h:197: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:198: error: parse error before "ksh_setUpdateFunc"
+nepomuk/kr_shell.h:198: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:199: error: parse error before "ksh_shufflePatterns"
+nepomuk/kr_shell.h:199: error: parse error before "on_or_off"
+nepomuk/kr_shell.h:199: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:203: error: parse error before '*' token
+nepomuk/kr_shell.h:208: error: parse error before "ksh_getUnitInitialActivation"
+nepomuk/kr_shell.h:208: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:209: error: parse error before "ksh_getUnitActivation"
+nepomuk/kr_shell.h:209: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:210: error: parse error before "ksh_getUnitOutput"
+nepomuk/kr_shell.h:210: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:213: error: parse error before "ksh_isUnitFrozen"
+nepomuk/kr_shell.h:213: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:214: error: parse error before "ksh_loadNewPatterns"
+nepomuk/kr_shell.h:214: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:215: error: parse error before "ksh_saveNewPatterns"
+nepomuk/kr_shell.h:215: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:216: error: parse error before "ksh_setUnitDefaults"
+nepomuk/kr_shell.h:216: error: parse error before "act"
+nepomuk/kr_shell.h:218: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:219: error: parse error before "ksh_getFuncParamInfo"
+nepomuk/kr_shell.h:221: warning: data definition has no type or storage class
+nepomuk/kr_shell.h:223: error: parse error before "minus"
+In file included from enzo.h:69,
+                 from enzo.c:53:
+nepomuk/nepomuk.h:92: error: parse error before "memNet"
+nepomuk/nepomuk.h:92: warning: no semicolon at end of struct or union
+nepomuk/nepomuk.h:96: error: parse error before '}' token
+nepomuk/nepomuk.h:96: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:108: error: parse error before "memPat"
+nepomuk/nepomuk.h:108: warning: no semicolon at end of struct or union
+nepomuk/nepomuk.h:114: error: parse error before '}' token
+nepomuk/nepomuk.h:114: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:117: error: parse error before '*' token
+nepomuk/nepomuk.h:117: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:118: error: parse error before '*' token
+nepomuk/nepomuk.h:118: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:124: error: parse error before "id_1"
+nepomuk/nepomuk.h:141: error: parse error before "FlintType"
+nepomuk/nepomuk.h:141: warning: no semicolon at end of struct or union
+nepomuk/nepomuk.h:155: error: parse error before '}' token
+nepomuk/nepomuk.h:155: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:162: error: parse error before "FlintType"
+nepomuk/nepomuk.h:162: warning: no semicolon at end of struct or union
+nepomuk/nepomuk.h:165: error: parse error before '}' token
+nepomuk/nepomuk.h:165: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:173: error: parse error before "FlintType"
+nepomuk/nepomuk.h:173: warning: no semicolon at end of struct or union
+nepomuk/nepomuk.h:184: error: parse error before '*' token
+nepomuk/nepomuk.h:184: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:186: error: parse error before '*' token
+nepomuk/nepomuk.h:186: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:188: error: parse error before '}' token
+nepomuk/nepomuk.h:188: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:232: error: parse error before "id"
+nepomuk/nepomuk.h:244: error: parse error before "id"
+nepomuk/nepomuk.h:255: error: parse error before "kpm_getCurrentNet"
+nepomuk/nepomuk.h:255: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:266: error: parse error before "kpm_loadNet"
+nepomuk/nepomuk.h:266: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:278: error: parse error before "id"
+nepomuk/nepomuk.h:305: error: parse error before "id"
+nepomuk/nepomuk.h:317: error: parse error before "id"
+nepomuk/nepomuk.h:328: error: parse error before '*' token
+nepomuk/nepomuk.h:340: error: parse error before "kpm_copyNet"
+nepomuk/nepomuk.h:340: error: parse error before "id"
+nepomuk/nepomuk.h:340: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:350: error: parse error before "id"
+nepomuk/nepomuk.h:361: error: parse error before "kpm_newNet"
+nepomuk/nepomuk.h:361: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:373: error: parse error before "id"
+nepomuk/nepomuk.h:387: error: parse error before "n_id"
+nepomuk/nepomuk.h:389: error: parse error before "id"
+nepomuk/nepomuk.h:391: error: parse error before "kpm_popFirstMember"
+nepomuk/nepomuk.h:391: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:392: error: parse error before "kpm_popNextMember"
+nepomuk/nepomuk.h:392: error: parse error before "NetID"
+nepomuk/nepomuk.h:392: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:403: error: parse error before "id"
+nepomuk/nepomuk.h:404: error: parse error before "kpm_loadPat"
+nepomuk/nepomuk.h:404: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:405: error: parse error before "kpm_getCurrentPattern"
+nepomuk/nepomuk.h:405: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:413: error: parse error before "id"
+nepomuk/nepomuk.h:426: error: parse error before "kpm_getFirstPat"
+nepomuk/nepomuk.h:426: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:427: error: parse error before "kpm_getNextPat"
+nepomuk/nepomuk.h:427: error: parse error before "pat"
+nepomuk/nepomuk.h:427: warning: data definition has no type or storage class
+nepomuk/nepomuk.h:441: error: parse error before "id"
+nepomuk/nepomuk.h:442: error: parse error before "id"
+In file included from enzo.h:71,
+                 from enzo.c:53:
+networkData.h:68: error: parse error before "NetID"
+networkData.h:68: warning: no semicolon at end of struct or union
+networkData.h:80: error: parse error before '}' token
+networkData.h:80: warning: data definition has no type or storage class
+networkData.h:87: error: parse error before '*' token
+networkData.h:87: warning: data definition has no type or storage class
+In file included from enzo.h:72,
+                 from enzo.c:53:
+subUtils.h:171: error: parse error before "subul_createNet"
+subUtils.h:171: warning: data definition has no type or storage class
+subUtils.h:185: error: parse error before "id_1"
+subUtils.h:206: error: parse error before "subul_getPatID"
+subUtils.h:206: warning: data definition has no type or storage class
+In file included from enzo.c:53:
+enzo.h:75: error: conflicting types for `setlinebuf'
+/usr/include/stdio.h:289: error: previous declaration of `setlinebuf'
+enzo.c:84: error: `FALSE' undeclared here (not in a function)
+enzo.c:114: warning: initialization makes integer from pointer without a cast
+enzo.c:115: warning: initialization makes integer from pointer without a cast
+enzo.c:116: warning: initialization makes integer from pointer without a cast
+enzo.c: In function `timestr':
+enzo.c:130: warning: passing arg 1 of `time' makes integer from pointer without a cast
+enzo.c: In function `catch_signal':
+enzo.c:214: error: `TRUE' undeclared (first use in this function)
+enzo.c:214: error: (Each undeclared identifier is reported only once
+enzo.c:214: error: for each function it appears in.)
+enzo.c: In function `enzo_actModule':
+enzo.c:386: error: `TRUE' undeclared (first use in this function)
+enzo.c: In function `initialize_all':
+enzo.c:435: warning: passing arg 1 of `time' makes integer from pointer without a cast
+enzo.c:467: error: `TRUE' undeclared (first use in this function)
+enzo.c:478: error: `FALSE' undeclared (first use in this function)
+enzo.c:494: warning: passing arg 2 of `signal' from incompatible pointer type
+enzo.c:495: warning: passing arg 2 of `signal' from incompatible pointer type
+enzo.c:496: warning: passing arg 2 of `signal' from incompatible pointer type
+enzo.c: In function `exit_all':
+enzo.c:505: error: `TRUE' undeclared (first use in this function)
+enzo.c: In function `pre_evolution':
+enzo.c:537: error: `FALSE' undeclared (first use in this function)
+enzo.c: At top level:
+nepomuk/nepomuk.h:149: error: storage size of `position' isn't known
+make[2]: *** [enzo.o] Error 1
+make[2]: Leaving directory `/data2/net_neuronal/src/berlios_snns/ENZO/src'
+make[1]: *** [src] Error 2
+make[1]: Leaving directory `/data2/net_neuronal/src/berlios_snns/ENZO'
+make: *** [all] Error 2
